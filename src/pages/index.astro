@@ -1,0 +1,104 @@
+---
+import '../styles/global.css';
+import StoryCard from '../components/StoryCard.astro';
+
+interface Story {
+	number: number;
+	title_zh: string;
+	text: string;
+}
+
+interface Volume {
+	book: string;
+	volume: string;
+	volume_number: string;
+	volume_name: string;
+	source: string;
+	stories: Story[];
+}
+
+const 卷資料模組 = import.meta.glob('../data/新鐫笑林廣記/*.json', {
+	eager: true,
+});
+
+const 中文數字: Record<string, number> = {
+	零: 0,
+	〇: 0,
+	一: 1,
+	二: 2,
+	兩: 2,
+	三: 3,
+	四: 4,
+	五: 5,
+	六: 6,
+	七: 7,
+	八: 8,
+	九: 9,
+};
+
+function 中文卷號轉數字(value: string): number {
+	if (/^\d+$/.test(value)) return Number(value);
+	if (value === '十') return 10;
+	if (value.includes('十')) {
+		const [tens, ones] = value.split('十');
+		return (中文數字[tens] ?? 1) * 10 + (中文數字[ones] ?? 0);
+	}
+	return 中文數字[value] ?? 0;
+}
+
+const 卷列表 = Object.values(卷資料模組)
+	.map((module) => (module as { default: Volume }).default)
+	.sort(
+		(a, b) =>
+			中文卷號轉數字(a.volume_number) - 中文卷號轉數字(b.volume_number),
+	);
+
+const 書名 = 卷列表[0]?.book ?? '新鐫笑林廣記';
+---
+
+<html lang="zh-Hant">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{書名}</title>
+	</head>
+	<body class="font-serif">
+		<main class="mx-auto max-w-3xl px-4 py-8 md:py-12">
+			<header class="mb-6 border-b border-neutral-200 pb-4">
+				<h1 class="m-0 text-3xl font-semibold tracking-wide">{書名}</h1>
+			</header>
+
+			<div class="space-y-10">
+				{卷列表.map((卷) => (
+					<section class="space-y-4" id={`volume-${卷.volume_number}`}>
+						<header class="rounded-lg bg-stone-100 px-4 py-3">
+							<h2 class="m-0 text-xl font-semibold text-stone-800">
+								第{卷.volume_number}卷 {卷.volume_name}
+							</h2>
+							<p class="mt-1 text-sm text-stone-600">
+								共 {卷.stories.length} 則
+								<span class="mx-2">·</span>
+								<a class="underline" href={卷.source} target="_blank" rel="noreferrer">
+									原始來源
+								</a>
+							</p>
+						</header>
+
+						<div class="space-y-4">
+							{卷.stories.map((story) => (
+								<StoryCard
+									number={story.number}
+									title={story.title_zh}
+									text={story.text}
+								/>
+							))}
+						</div>
+					</section>
+				))}
+			</div>
+		</main>
+	</body>
+</html>

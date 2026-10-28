@@ -1,0 +1,415 @@
+{
+  "book": "新鐫笑林廣記",
+  "volume": "第十一卷譏刺部 Volume 11: Satirical Criticisms Department",
+  "volume_number": "十一",
+  "volume_name": "譏刺部",
+  "source": "https://ctext.org/wiki.pl?if=gb&chapter=21142",
+  "stories": [
+    {
+      "title_zh": "搬是非",
+      "title_en": "Ban Shifei",
+      "text": "寺中塑三教像，先儒，次釋，後道。道士見之，即移老君於中。僧見，又移釋迦於中。士見，仍移孔子於中。三聖自相謂曰：「我們原是好好的，卻被這些小人搬來搬去搬壞了。」",
+      "translation": "Three statues representing the Three Teachings were sculpted in the temple: first Confucianism, then Buddhism, and finally Taoism. When the Daoist priest saw this arrangement, he immediately moved the statue of Laozi to the center. When the monk saw it, he again moved the statue of Shijia (Siddhartha Gautama) to the center. When the scholar saw this, he still moved the statue of Confucius to the center. The Three Sages said to each other, \"We were originally in good order, but we have been messed up by these petty people moving us around.\"",
+      "number": 1
+    },
+    {
+      "title_zh": "丈人",
+      "title_en": "Zhangren",
+      "text": "有以岳丈之力得魁選行者，或為語嘲之曰：「孔門弟子入試，臨揭曉，聞報子張第十九。眾曰：『他一貌堂堂，果有好處。』又報子路第十三，眾曰：『這粗人倒也中得高，還虧他這陣氣魄好。』又報顏淵第十二，眾曰：『他學問最好，屈了他些。』又報公冶長第五，大家駭曰：『那人平時不見怎的，為何倒中在前？』一人曰：『他全虧有人扶持，所以高掇。』問：『誰扶持他？』曰：『丈人。』」",
+      "translation": "There was someone who obtained a top rank in the imperial examination through his father-in-law's influence. Some people mocked him by saying, \"A disciple of Confucius took the exam; just before the results were announced, he heard that Zhang Zi was nineteenth.\" The crowd said, \"He has a dignified appearance and is indeed well-mannered.\" Then they announced that Zilu was thirteenth, and the crowd said, \"This rough man actually ranked quite high; it's fortunate he has such a bold demeanor.\" Then they announced that Yanyuan was twelfth, and the crowd said, \"His scholarship is the best; it's a bit of an injustice to him.\" Then they announced that Gongyechang was fifth, and everyone was startled, saying, \"That person is not remarkable in any way; why did he end up ranking so high?\" One person said, \"He owes his success entirely to someone supporting him, which is why he achieved such a high rank.\" Someone asked, \"Who supported him?\" They said, \"His father-in-law.\"",
+      "number": 2
+    },
+    {
+      "title_zh": "大爺",
+      "title_en": "Daye",
+      "text": "一人牽牛而行，喝人讓路，不聽，乃云：「看你家爺來。」一人回視曰：「難道我家有這樣一個大爺？」",
+      "translation": "A man led a cow while walking, shouting at people to make way. When they did not listen, he said, \"Look! My master is coming.\" Another man looked back and said, \"Could it be that my family has such a master?\"",
+      "number": 3
+    },
+    {
+      "title_zh": "接風送程",
+      "title_en": "Jiefeng Songcheng",
+      "text": "一人往蘇州娶得一妾，喚名蘇娘。後又往杭州娶了一妾，就取名杭娘。其妻立下規矩：每到蘇、杭身邊去，必要投批掛號，先與他幹訖一度，方許前行，名為送程。及輪該自晚，與夫交合，又名為接風。其夫苦於奔命，願請獨宿。一日，妻興忽發，乃勸夫往蘇、杭去。夫笑曰：「我蘇、杭倒也要去，只是當你接風、送程不起。」",
+      "translation": "A man went to Suzhou and took a concubine, whom he named Suniang. Later, he went to Hangzhou and took another concubine, naming her Hangniang. His wife set a rule: whenever he went to visit Suzhou or Hangzhou, he had to submit an application and register first, and must spend one night with them before being allowed to proceed. This was called \"Songcheng.\" When it was her turn in the evening to be with her husband, this was also known as \"Jiefeng.\" His husband was exhausted from running around and wished to request a separate room. One day, his wife suddenly had an idea and persuaded her husband to go to Suzhou and Hangzhou. The husband laughed and said, \"I do want to visit Suzhou and Hangzhou, but only when you can't manage the 'Jiefeng' and 'Songcheng.'\"",
+      "number": 4
+    },
+    {
+      "title_zh": "蘇杭同席",
+      "title_en": "Suhang Tongxi",
+      "text": "蘇、杭人同席，杭人單吃棗子，而蘇人單食橄欖。杭問蘇曰：「橄欖有何好處，而兄愛吃他？」曰：「回味最佳。」杭人曰：「等得你回味好，我已甜過半日了。」",
+      "translation": "A Suzhou native and a Hangzhou native were seated together. The Hangzhou man ate only dates, while the Suzhou man ate only olives. The Hangzhou man asked the Suzhou native, \"What good is there in olives that you like to eat them so much?\" He replied, \"They have the best aftertaste.\" олько The Hangzhou native said, \"By the time you savor the aftertaste, I would already have enjoyed sweetness for half a day.\"",
+      "number": 5
+    },
+    {
+      "title_zh": "狗銜錠",
+      "title_en": "Gou Xian Ding",
+      "text": "狗銜一銀錠而飛走，人以肉喂他不放，又以衣罩去，復甩脫。人謂狗曰：「畜生，你直恁不捨，既不愛吃，復不好穿，死命要這銀子何用？」",
+      "translation": "A dog ran off while holding a silver ingot in its mouth. People tried feeding it meat, but the dog would not let go; they then tried covering it with clothes, but the dog shook them off again. A person said to the dog, \"Beast, how could you be so reluctant to let go? You don't even like eating it or wearing it—what use is this silver to you?\"",
+      "number": 6
+    },
+    {
+      "title_zh": "不停當",
+      "title_en": "Budang Dang",
+      "text": "有開當者，本錢甚少。初開之月，招牌寫一「當」字。未幾，本錢發盡，贖者不來，乃於「當」字之上，寫一「停」字，言停當也。及後贖者再來，本錢復至，又於「停」字之上，加一「不」字。人見之曰：「我看你這典鋪中，實實有些不停當了。」",
+      "translation": "There was a pawnshop owner who had very little capital. In the first month of opening, he put up a sign with just one character: \"Dang.\" After some time, his capital was exhausted and no one came to redeem their items. He then added the character \"Ting\" on top of the \"Dang,\" meaning that the pawnshop had ceased operations. Later, when redeemers returned and his capital was replenished again, he added the character \"Bu\" on top of the \"Ting.\" People saw it and said, \"I see that your pawnshop is indeed becoming a bit undependable now.\"",
+      "number": 7
+    },
+    {
+      "title_zh": "和事",
+      "title_en": "Heshi",
+      "text": "一夫婦反目，夜晚上床，夫以手摸其陰，妻推開曰：「手是日間打我的，不要來。」夫與親嘴，又推開曰：「口是日間罵我的，不要來。」及將陽物插入陰戶中，婦不之拒。夫問曰：「口與手，你甚怪他，獨此物不拒，何也？」婦曰：「他不曾得罪我。往常爭鬧了，全虧他做和事老人，自然由他出入。」",
+      "translation": "A married couple had a quarrel. One night, after going to bed, the husband reached out with his hand toward her private parts. The wife pushed it away and said, \"This is the same hand that hit me during the day; don't bring it near.\" The husband then kissed her, and she pushed him away again, saying, \"This is the same mouth that scolded me during the day; don't come near.\" When he was about to insert his penis into her vagina, the woman did not resist. The husband asked, \"You were so angry about my mouth and hands, yet you don't object to this one. Why is that?\" The wife said, \"He has never wronged me.\" \"In the past when we quarreled, it was always him who acted as the peacemaker. Naturally, I allow him to come and go freely.\"",
+      "number": 8
+    },
+    {
+      "title_zh": "朝奉",
+      "title_en": "Chaofeng",
+      "text": "徽人狎妓，賣弄才學，臨行事，待要說一成語切題。乃舒妓兩股，以其陰對己之陽曰：「此丹鳳朝陽也。」妓亦以徽人之陽對己之陰，徽人問曰：「此何故事？」妓曰：「這叫做卵袋朝奉。」",
+      "translation": "A native of Hui flirted with a courtesan, showing off his learning. When the time came for intimacy, he wanted to say an idiom that was relevant to the situation. He spread the courtesan's legs and, facing his own penis with her vagina, said, \"This is Danfeng Chao Yang.\" The courtesan then placed the Hui native's penis against her vagina. The Hui native asked, \"What story is this?\" The courtesan said, \"This is called Luandai Chaofeng.\"",
+      "number": 9
+    },
+    {
+      "title_zh": "十隻腳",
+      "title_en": "Shizhi Jiao",
+      "text": "關吏缺課，凡空身人過關，亦要納稅，若生十隻腳者免。初一人過關無鈔，曰：「我浙江龍游人也。龍是四腳，牛是四腳，人兩腳，豈非十腳？」許之。又一人求免稅曰：「我乃蟹客也。蟹八腳，我兩腳，豈非十腳？」亦免之。末後一徽商過關，竟不納稅。關吏怒欲責之，答曰：「小的雖是兩腳，其實身上之腳還有八隻。」官問：「那裡？」答曰：「小的徽人，叫做徽獺貓。貓是四腳，獺又四腳，小的兩腳，豈不共是十隻腳？」",
+      "translation": "A customs officer was short on revenue, so he demanded taxes even from people who had nothing with them. However, those born with ten feet were exempt. At first, one man passed through the customs without money and said, \"I am a native of Longyou, Zhejiang.\" \"A dragon has four feet, an ox has four feet, and a human has two feet. Isn't that ten feet altogether?\" He was allowed to pass. Another man requested tax exemption and said, \"I am a crab merchant.\" \"A crab has eight feet, and I have two. Isn't that ten altogether?\" He was also exempted. Finally, a Hui merchant passed through the customs and did not pay any tax. The customs officer became angry and was about to reprimand him, but the merchant replied, \"Although I have only two legs, in reality there are still eight more feet on my body.\" The official asked, \"Where?\" He replied, \"I am a native of Hui. We are called Huilamao.\" \"A cat has four feet, an otter also has four feet, and I have two feet. Doesn't that make a total of ten feet?\"",
+      "number": 10
+    },
+    {
+      "title_zh": "親家公",
+      "title_en": "Qinjia Gong",
+      "text": "有見少婦抱小兒於懷，乃討便宜曰：「好個乖兒子。」婦知其輕薄，接口曰：「既好，你把女兒送他做妻子罷。」其人答曰：「若如此，你要叫我親──家公了。」",
+      "translation": "A man saw a young woman holding an infant in her arms and took the opportunity to flatter, saying, \"What a lovely obedient son.\" The woman realized he was being flirtatious and retorted, \"If you think he is so good, then why don't you send your daughter to be his wife?\" The man replied, \"If that's the case, you would have to call me Qinjia Gong.\"",
+      "number": 11
+    },
+    {
+      "title_zh": "中人",
+      "title_en": "Zhongren",
+      "text": "玉帝修凌霄殿，偶乏錢糧，欲將廣寒宮典與下界人皇。因思中人亦得一皇帝便好，乃請灶君皇帝下界議價。既見朝，朝中人訝之曰：「天庭所遣中人，何黑如此？」灶君笑曰：「天下中人，那有是白做的！」",
+      "translation": "The Jade Emperor was repairing Lingxiao Hall and, short of money and provisions, wanted to pawn the Palace of Eternal Coldness to a mortal emperor. Thinking that an intermediary would be helpful in reaching a deal, he invited Zaojun the Emperor to descend to the mortal world to negotiate the price. After arriving at court, the emperor's attendants were surprised and asked, \"The intermediary sent by Heaven, why is he so dark in appearance?\" Zaojun laughed and said, \"In the world, are intermediaries usually born white-skinned!\"",
+      "number": 12
+    },
+    {
+      "title_zh": "媒人",
+      "title_en": "Meiren",
+      "text": "有懮貧者，或教之曰：「只求媒人足矣。」其人曰：「媒安能療貧乎？」答曰：「隨你窮人家，經了媒人口，就都發跡了！」",
+      "translation": "A poor man was worried about his situation, and someone advised him, \"Just find a matchmaker, and that will be enough.\" The man asked, \"How can a matchmaker cure poverty?\" The person replied, \"No matter how poor your family is, once it goes through the mouth of a matchmaker, they will all become prosperous!\"",
+      "number": 13
+    },
+    {
+      "title_zh": "表號",
+      "title_en": "Biaohao",
+      "text": "一富翁不通文墨，有借馬者柬云：「偶欲他出，告假駿足一乘。」翁大怒曰：「我便是一雙足，如何借得？」傍友代解曰：「所謂駿足者，馬之稱號也。」翁乃大笑曰：「不信畜生也有表號。」",
+      "translation": "A wealthy man was illiterate. When someone borrowed a horse, he wrote in the letter: \"I wish to go out briefly and request one fine steed on loan.\" The wealthy man became very angry and said, \"Even if I were a pair of feet myself, how could that be borrowed?\" A friend nearby tried to explain, saying, \"What is called 'junzu' refers to a horse.\" The wealthy man then laughed and said, \"I don't believe that animals also have titles or honorifics.\"",
+      "number": 14
+    },
+    {
+      "title_zh": "精童",
+      "title_en": "Jingtong",
+      "text": "有好外者，往候一友。友知其性，呼曰：「喚精童具茶。」已而獻茶者，乃一奇醜童子也。其人曰：「似此何名精童？」友白：「正惟一些人（音銀）氣也無得。」",
+      "translation": "A man who enjoyed visiting others went to visit a friend. His friend, knowing his habit, called out, \"Call Jingtong to serve tea.\" Soon after, a boy who was both strange and ugly came forward to offer tea. The man said, \"How can someone like this be called Jingtong?\" His friend explained, \"It's precisely because some people (pronounced Yin) have no sense of dignity at all.\"",
+      "number": 15
+    },
+    {
+      "title_zh": "相稱",
+      "title_en": "Xiangcheng",
+      "text": "一俗漢造一精室，室中羅列古玩書畫，無一不備。客至，問曰：「此中若有不相稱者，幸指教，當去之。」客曰：「件件俱精，只有一物可去。」主人問：「是何物？」客曰：「就是足下。」",
+      "translation": "A vulgar man built an elegant room, in which he displayed antiques, calligraphy, and paintings; nothing was lacking. When guests arrived, they asked, \"If there is anything here that does not match in style or quality, please kindly point it out so I can remove it.\" The guest said, \"Each item is exquisite; only one object should be removed.\" The host asked, \"What is it?\" The guest said, \"It's you, the honorable host.\"",
+      "number": 16
+    },
+    {
+      "title_zh": "看扇",
+      "title_en": "Kanshan",
+      "text": "有借佳扇觀者，其人珍惜，以綿紬衫襯之。扇主看其袖色不堪，謂曰：「倒是光手拿著罷。」",
+      "translation": "A man borrowed a fine fan to look at. The owner cherished it and lined the fan with a silk-satin shirt for protection. The fan's owner saw that the man's sleeves were in poor condition and said, \"You might as well hold it with your bare hands instead.\"",
+      "number": 17
+    },
+    {
+      "title_zh": "性不飲",
+      "title_en": "Xing Buyin",
+      "text": "一人以酒一瓶、腐一塊，獻利市神。祭畢，見狗在傍，速命童子收之。童方攜酒入內，腐已為狗所啖。主怒曰：「奴才！你當收不收，只應先收了豆腐。豈不曉得狗是從來不吃酒的！」",
+      "translation": "A man offered a bottle of wine and a piece of tofu to the god of prosperity. After the ritual, he saw a dog nearby and quickly ordered his servant boy to drive it away. The servant was just carrying the wine inside when he found out that the tofu had already been eaten by the dog. The master angrily said, \"You rascal!\" \"You should have driven the dog away first before worrying about whether or not to do it. You should have taken care of the tofu first.\" \"Do you not know that dogs never drink wine!\"",
+      "number": 18
+    },
+    {
+      "title_zh": "擔鬼人",
+      "title_en": "Dan Guiren",
+      "text": "鍾馗專好吃鬼，其妹送他壽禮，帖上寫云：「酒一壇，鬼兩個，送與哥哥做點剁。哥哥若嫌禮物少，連挑擔的是三個。」鍾馗看畢，命左右將三個鬼俱送庖人烹之。擔上鬼謂挑擔鬼曰：「我們死是本等，你卻何苦來挑這擔子？」",
+      "translation": "Zhong Kui specialized in eating ghosts. On his birthday, his sister sent him a gift, and the note on the package read: \"One jar of wine, two ghosts, to be given to my elder brother as snacks.\" \"If you think the gift is too small, Brother, even the one carrying the pole is a third ghost.\" After reading it, Zhong Kui ordered his attendants to send all three ghosts to the cook for stewing. The ghost on the pole said to the ghost carrying it, \"We are doomed by our nature; why did you go out of your way to carry this burden?\"",
+      "number": 19
+    },
+    {
+      "title_zh": "鬼臉",
+      "title_en": "Gui Lian",
+      "text": "閻王差鬼卒拘三人到案，先問第一個：「你生前作何勾當？」答去：「縫連補綴。」王曰：「你迎新棄舊，該押送油鍋。」又問第二個：「你作何生理？」答曰：「做花賣。」王曰：「你節外生枝，發在油鍋。」再問第三個，答曰：「糊鬼臉。」王曰：「都押到油鍋去。」其人不服，曰：「我糊鬼臉，替大王張威壯勢，如何同犯此罪？」王曰：「我怪你見錢多的，便把好臉兒與他，那錢少的，就將歹臉來欺他。」",
+      "translation": "King Yama sent ghostly officers to summon three people for judgment. He first asked the first one, \"What did you do in your lifetime?\" The person replied, \"I mended clothes and patched holes.\" King Yama said, \"You discarded the old for the new; you should be sent to the oil pot.\" He then asked the second person, \"What was your profession in life?\" The person replied, \"I made and sold flowers.\" King Yama said, \"You created branches beyond the joints; you will be fried in the oil pot.\" When he asked the third person, they replied, \"I painted ghost faces.\" King Yama said, \"Take all of you to the oil pot.\" The person was not satisfied and said, \"I painted ghost faces to help Your Majesty display power and strength. Why must I share this punishment?\" King Yama said, \"I am angry with you because when someone had a lot of money, you gave them a good face, but to those who had less money, you showed a bad face and bullied them.\"",
+      "number": 20
+    },
+    {
+      "title_zh": "牙蟲",
+      "title_en": "Ya Chong",
+      "text": "有患牙疼者，無法可治。醫者云：「內有巨蟲一條，如桑蠶樣，須捉出此蟲，方可斷根。」問：「如何就有恁大？」醫曰：「自幼在牙（衙）門裡吃大，最能傷人。」",
+      "translation": "A man suffered from toothache, but there was no cure available. The doctor said, \"There is a large worm inside, like a silkworm; we must catch this worm to cure the problem completely.\" He asked, \"How could it have grown so big?\" The doctor said, \"It has been growing in the tooth (court) since childhood and is very harmful to people.\"",
+      "number": 21
+    },
+    {
+      "title_zh": "狗肚一句",
+      "title_en": "A Saying about a Dog's Stomach",
+      "text": "新官到任，吏跪獻鯽魚一尾，其味佳美，大異尋常。官食後，每思再得，差役遍覓無有。仍向前吏索之，吏稟曰：「此魚非市中所買。昨偶宰一狗，從狗肚中得者，以為異品，故敢上獻。」官曰：「難道只有此鯽了？」吏曰：「狗肚裡焉得有第二鯽（句）。」",
+      "translation": "When the new official took office, an officer knelt and presented him with one crucian carp. Its taste was delicious and greatly different from ordinary fish. After eating it, the official often thought of having more like it and sent officers to search everywhere but found none. He still asked for it from the previous officer, who reported, \"This fish was not bought in the market. Yesterday I happened to slaughter a dog and found this fish inside its stomach, thinking it an unusual kind, so I dared to present it.\" The official said, \"Does that mean there is only one such crucian carp?\" The officer replied, \"How could a dog's stomach have another crucian (sentence).\"",
+      "number": 22
+    },
+    {
+      "title_zh": "吃糧披甲",
+      "title_en": "Eating Rations and Wearing Armor",
+      "text": "一耗鼠在陰溝內鑽出，近視者睨視良久，曰：「咦！一個穿貂裘的大老官。」鼠見人隨縮入。少刻，又一大龜從洞內扒出，近視曰：「你行穿貂襖的主兒才得進去，又差出個披甲兵兒來了。」",
+      "translation": "A rat emerged from a drain. A nearsighted person stared at it for a long time and said, \"Hey!\" \"A man in a sable coat with an old appearance.\" The rat saw the person and quickly scurried back into the drain. A moment later, a large turtle crawled out from the hole. The nearsighted person said, \"Only those dressed in sable coats can go in there; now another armored soldier has come out.\"",
+      "number": 23
+    },
+    {
+      "title_zh": "卵穿嘴上",
+      "title_en": "An Egg Pierced on the Beak",
+      "text": "一女無故而腹中受孕，父母嚴詰其故，女曰：「並無外遇，止有某日偶遇某人對面而來，嘴上撞了一下，遂爾成胎。此外別無他事。」父沉吟良久，忽悟曰：「嗄，我曉得了，這人的卵袋，竟穿在嘴上的。」",
+      "translation": "A woman became pregnant without cause. Her parents strictly questioned her about it, and she said, \"I had no affair; there was only one day when I happened to meet a certain person coming face-to-face with me, and my mouth collided slightly, after which I became pregnant.\" \"There were no other incidents besides that.\" The father pondered for a long time, then suddenly realized and said, \"Ah! I understand now. This man's scrotum is attached to his beak!\"",
+      "number": 24
+    },
+    {
+      "title_zh": "風流不成",
+      "title_en": "Romance Unfulfilled",
+      "text": "有嫖客錢盡，鴇兒置酒餞之。忽雨下，嫖客嘆曰：「雨落天留客，天留人不留。」鴇念其撒錢，勉留一宿。次日下雪復留。至第三日風起，嫖客復冀其留，仍前唱嘆。鴇兒曰：「今番官人沒錢，風留（流）不成。」",
+      "translation": "A client, having spent all his money, was treated to a farewell drink by the madam. Suddenly it rained, and the client sighed, saying, \"Rain falls to keep guests; heaven keeps you but people do not.\" The madam, thinking of his spending money, decided to let him stay for one night. The next day it snowed again, and she kept him once more. On the third day, when wind blew up, the client hoped she would keep him again and repeated his lamentations. The madam said, \"This time, my dear sir has no money; the wind cannot help you stay.\"",
+      "number": 25
+    },
+    {
+      "title_zh": "好烏龜",
+      "title_en": "A Good Turtle",
+      "text": "時值大比，一人夤緣科舉一名，命卜者佔龜，頗得佳象，穩許今科公捷。其人大喜，將龜殼謹帶隨身。至期點名入場，主試出題，旨解茫然，終日不成一字。因撫龜嘆息曰：「不信這樣一個好烏龜，如何竟不會做文字！」",
+      "translation": "During the major imperial examination period, a man obtained an exam position through connections. He consulted a fortune-teller who divined using a turtle shell and received very auspicious signs, confidently assuring him of success in this examination session. The man was overjoyed and carefully carried the turtle shell with him wherever he went. On the day of the examination, when his name was called for entry and the examiner presented the topic, he found it completely incomprehensible and failed to write a single word all day. He then patted the turtle shell in sighs, saying, \"I can't believe that such a good turtle would not know how to help me write even one character!\"",
+      "number": 26
+    },
+    {
+      "title_zh": "通譜",
+      "title_en": "Tong Pu",
+      "text": "有人欲狎一處女，先舉其物詢之曰：「此是何物，汝知之否？」女曰：「那是一張。」因「卵」字不便出口，故作歇後語也。又問曰：「這等，你腰下的何物？」女曰：「也是一張。」男曰：「你也一張，我也一張，可見這兩件東西都是姓張的了，五百年前共一家，何不使他通一通譜？」女許之，遂解褲相狎。事畢後，女嘆曰：「譜便通了，只是這個門戶漸漸的大起來，收斂不得，卻怎麼好？」",
+      "translation": "A man wanted to seduce a maiden and first showed her an object, asking, \"Do you know what this is?\" The girl said, \"That's one sheet.\" Because the word for \"egg\" was too awkward to say directly, she used a cryptic saying instead. He then asked, \"Then what is that thing below your waist?\" The girl replied, \"It's also one sheet.\" The man said, \"You have one sheet and I have one sheet. Clearly these two things are both surnamed Zhang; we must be from the same family five hundred years ago. Why not let them connect their genealogies?\" The girl agreed, and they then undressed and had intercourse. Afterward, the girl sighed and said, \"The genealogy is now connected, but this family has gradually grown larger and cannot be contained. What should we do about it?\"",
+      "number": 27
+    },
+    {
+      "title_zh": "聯宗",
+      "title_en": "Union of Clans",
+      "text": "眉毛一日忽欲與腋毛聯宗，腋毛不肯，曰：「我也在人手下，如何與你聯得？有一好去處，引你去聯可也。」問：「何處？」曰：「下邊新豎旗杆的。」",
+      "translation": "One day, a person's eyebrows suddenly wanted to form an alliance with the armpit hair. The armpit hair refused and said, \"I am also under someone else's control; how can I possibly ally with you?\" \"There is a good place to go. I can lead you there for the alliance.\" The eyebrows asked, \"Where?\" He said, \"It's the new flagpole at the bottom.\"",
+      "number": 28
+    },
+    {
+      "title_zh": "定親",
+      "title_en": "Fixing a Marriage Engagement",
+      "text": "一人登廁，隔廁先有一女在焉，偶失淨紙，因言：「若有知趣的給我，願為之婦。」其人聞之，即以自所用者，從壁隙中遞與。女淨訖逕去。其人嘆曰：「親事雖定了一頭，這一屁股債，如何乾淨？」",
+      "translation": "A man went to the toilet and found a woman already there. She accidentally dropped her clean paper, so she said, \"If anyone is kind enough to give it back to me, I will be willing to marry him.\" Hearing this, the man immediately took his own paper and passed it through a gap in the wall. After she finished using it, the woman left directly. The man sighed and said, \"Although one marriage has been arranged, how on earth can this 'bottom debt' ever be cleaned up?\"",
+      "number": 29
+    },
+    {
+      "title_zh": "有錢誇口",
+      "title_en": "Boasting with Money",
+      "text": "一人迷路，遇一啞子，問之不答，惟以手作錢樣，示以得錢，方肯指引。此人喻其意，即以數錢與之，啞子乃開口指明去路。其人問曰：「為甚無錢裝啞？」啞曰：「如今世界，有了錢，便會說話耳！」",
+      "translation": "A man got lost and met a mute person. When he asked for directions, the mute did not answer but instead made a gesture resembling money with his hands, indicating that he would only give directions if given money. Understanding the mute's meaning, the man gave him several coins, and then the mute finally opened his mouth to clearly indicate the way forward. The man asked, \"Why pretend to be mute when you have no money?\" The mute said, \"In this world today, one only speaks when they have money!\"",
+      "number": 30
+    },
+    {
+      "title_zh": "古今三絕",
+      "title_en": "Three Outstanding Achievements of Ancient and Modern Times",
+      "text": "一家門首，來往人屙溺，穢氣難聞。因拒之不得，乃畫一龜於牆上，題云：「在此溺尿者，即是此物。」一惡少見之，問曰：「此是誰的手筆？」畫者任之，惡少曰：「宋徽宗、趙子昂與吾兄三人，共垂不朽矣。」畫者詢其故，答曰：「宋徽宗的鷹，趙子昂的馬，兄這樣烏龜，可稱古今三絕。」",
+      "translation": "At the entrance of a family's house, passersby urinated and defecated freely, creating an unbearable stench. Unable to stop them, the family painted a turtle on the wall and inscribed beneath it: \"Anyone who urinates or defecates here is this creature.\" A rowdy youth saw it and asked, \"Whose handwriting is this?\" The painter claimed responsibility. The ruffian said, \"Now Emperor Song Huijong, Zhao Ziang, and my elder brother have all achieved immortality together.\" The painter asked why, and the ruffian replied, \"Emperor Song Huijong's eagles, Zhao Ziang's horses, and your brother's turtle can be called the three greatest masterpieces of ancient and modern times.\"",
+      "number": 31
+    },
+    {
+      "title_zh": "白蟻蛀",
+      "title_en": "Termite Infestation",
+      "text": "有客在外，而主人潛入吃飯者。既出，客謂曰：「宅上好座廳房，可惜許多梁柱，都被白蟻蛀壞了。」主人四顧曰：「並無此物。」客曰：「他在裡面吃，外邊人如何知道。」",
+      "translation": "A guest was outside while the host secretly went in to eat. After returning, the guest said, \"Your house has a fine hall, but it is a pity that many of the beams and pillars have been ruined by termites.\" The host looked around and said, \"There are no such creatures here at all.\" The guest said, \"They eat inside; how could people outside know?\"",
+      "number": 32
+    },
+    {
+      "title_zh": "烏鬚藥",
+      "title_en": "Black Mustache Medicine",
+      "text": "婢少艾，而主人蒼老，屢次偷之不從。主人怒曰：「不受人抬舉！你這般做作，我自有法處你。」婢問何法，主人曰：「熬得你陰毛盡白，方許嫁人。」婢曰：「不妨，我自有烏鬚藥。」",
+      "translation": "The maid was young and beautiful, while the master was old. On many occasions she tried to seduce him but he refused. The master angrily said, \"You won't accept someone's advances!\" \"With you being so coy, I have my own way of dealing with you.\" The maid asked what method that was. The master said, \"I won't allow you to marry until I've boiled your pubic hair all white.\" The maid replied, \"That's no problem; I have my own black mustache medicine.\"",
+      "number": 33
+    },
+    {
+      "title_zh": "吃煙",
+      "title_en": "Smoking Tobacco",
+      "text": "人有送夜羹飯甫畢，已將酒肉啖盡。正在化紙將完，而群狗環集，其人曰：「列位來遲了一步，並無一物請你，都來吃些煙罷。」",
+      "translation": "Just after someone had finished delivering a night meal, the recipient had already eaten all the wine and meat. Just as the burning of paper offerings was about to finish, a group of dogs gathered around. The man said, \"You all arrived too late; there is nothing left for you. Come and have some smoke instead.\"",
+      "number": 34
+    },
+    {
+      "title_zh": "煙戶",
+      "title_en": "Smoking Households",
+      "text": "嫖客愛潔之極，妓女百般清趣，尚多憎嫌。妓將陰戶透香，嫖客臨事聞嗅被中，乃大駭云：「原來是個吃煙的煙戶。」",
+      "translation": "A client of prostitution was extremely particular about cleanliness. Even though the courtesan displayed all sorts of refined charm, he still found much to dislike. The courtesan perfumed her genital area, and when the client smelled it during their encounter, he was greatly startled and said, \"So you are a smoking household who actually smokes.\"",
+      "number": 35
+    },
+    {
+      "title_zh": "煩惱",
+      "title_en": "Trouble and Distress",
+      "text": "或問：「樊遲之名誰取？」曰：「孔子取的。」問：「樊噲之名誰取？」曰：「漢祖取的。」又曰：「煩惱之名誰取？」曰：「這是他自取的。」",
+      "translation": "Someone asked, \"Who gave Fan Chi his name?\" The reply was, \"It was Confucius who chose it.\" Someone asked, \"Who gave Fan Kuai his name?\" The reply was, \"It was Emperor Gaozu of Han who chose it.\" Another person asked, \"Who gave the name 'Fannoao'?\" The reply was, \"It is a name he chose for himself.\"",
+      "number": 36
+    },
+    {
+      "title_zh": "嘉興人",
+      "title_en": "People from Jiaxing",
+      "text": "下虱請上虱宴飲，上虱行至臍下，見腎倒掛，乃大驚而回。一日，下虱復遇上虱，敘述：「前次奉請，何以見卻？」上虱曰：「那日知兄府上為了人命，心緒欠寧，故不好取擾。」下虱曰：「並無其事。」上虱曰：「吊死一嘉興人在你門首，如何諱賴？」下虱曰：「那見是嘉興人？」答曰：「他身邊現帶著兩個臭鴨蛋。」",
+      "translation": "A lower louse invited an upper louse to a banquet. The upper louse walked down to the navel and saw the kidneys hanging upside down, so he was greatly shocked and returned. One day, the lower louse met the upper louse again and recounted, \"Last time I invited you; why did you refuse to come?\" The upper louse said, \"That day I knew that your residence was in turmoil over a murder case, so my mind was unsettled. Therefore, I did not wish to disturb you.\" The lower louse said, \"There is no such thing.\" The upper louse said, \"A man from Jiaxing hanged himself at your doorstep. How can you deny it?\" The lower louse replied, \"How do we know he was a native of Jiaxing?\" The reply was, \"Because he had two smelly duck eggs with him.\"",
+      "number": 37
+    },
+    {
+      "title_zh": "貓逐鼠",
+      "title_en": "A Cat Chases a Mouse",
+      "text": "昔有一貓擒鼠，趕入瓶內，貓不捨，猶在瓶邊守候。鼠畏甚，不敢出。貓忽打一噴嚏，鼠在瓶中曰：「大吉利。」貓曰：「不相干，憑你奉承得我好，只是要吃你哩！」",
+      "translation": "Once there was a cat that caught a mouse and chased it into a jar. The cat did not give up, still waiting by the side of the jar. The mouse was very frightened and dared not come out. Suddenly, the cat sneezed, and the mouse inside the jar said, \"That's a great omen!\" The cat replied, \"It has nothing to do with that. No matter how flatteringly you speak to me, I still want to eat you!\"",
+      "number": 38
+    },
+    {
+      "title_zh": "祝壽",
+      "title_en": "Celebrating a Birthday",
+      "text": "貓與耗鼠慶生，安坐洞口，鼠不敢出。忽在內打一噴嚏，貓祝曰：「壽年千歲！」群鼠曰：「他如此恭敬，何妨一見？」鼠曰：「他何嘗真心來祝壽囉，騙我出去，正要狠嚼我哩。」",
+      "translation": "A cat and a rat were celebrating the rat's birthday. The cat sat calmly at the mouth of the cave, and the rat dared not come out. Suddenly, a sneeze came from inside. The cat wished, \"Long live for a thousand years!\" The group of rats said, \"Since he is so respectful, why not come out and see him once?\" The rat said, \"How could he possibly be sincerely here to celebrate my birthday? He's just trying to trick me out so that he can savagely chew on me.\"",
+      "number": 39
+    },
+    {
+      "title_zh": "心狠",
+      "title_en": "Cruel Heart",
+      "text": "一人戲將數珠掛貓項間，群鼠私相賀曰：「貓老官已持齋念佛，定然不吃我們的了。」遂歡躍於庭，貓一見，連哺數個。眾鼠奔走，背地語曰：「吾等以他念佛心慈了，原來是假意修行。」一答曰：「你不知，如今世上修行念佛的，比尋常人的心腸更狠十倍。」",
+      "translation": "A man jokingly hung a string of prayer beads around the cat's neck. The group of rats secretly congratulated each other, saying, \"Master Cat has now taken up vegetarianism and is chanting Buddhist scriptures; he certainly won't eat us anymore.\" They then joyfully leaped about in the courtyard. As soon as the cat saw them, he devoured several of them at once. The rats ran away and whispered behind his back, \"We thought he was kind-hearted because of his chanting; it turns out he's just pretending to practice Buddhism.\" One replied, \"You don't know. Nowadays, those who pretend to chant and cultivate themselves have hearts ten times crueler than ordinary people.\"",
+      "number": 40
+    },
+    {
+      "title_zh": "嘲惡毒",
+      "title_en": "Mocking Malice",
+      "text": "蜂與蛇結盟，蜂云：「我欲同你上江一遊。」蛇曰：「可，你須伏在我背間。」行到江中，蛇已無力，或沉或浮。蜂疑蛇害己，將尾刺釘緊在蛇背上。蛇負疼罵曰：「人說我的口毒，誰知你的肚裡更毒！」",
+      "translation": "A bee and a snake formed an alliance. The bee said, \"I want to travel with you up the river.\" The snake replied, \"That's fine, but you must sit on my back.\" As they traveled to the middle of the river, the snake had already lost strength and was either sinking or floating. The bee suspected that the snake would harm it and drove its stinger tightly into the snake's back. In pain, the snake cursed, \"People say my mouth is venomous, but who knew your insides are even more malicious!\"",
+      "number": 41
+    },
+    {
+      "title_zh": "罵無禮",
+      "title_en": "Insulting Rudeness",
+      "text": "有數小廝同下池塘浴水，被一小蛇將屪子咬了一口。小廝忿怒，將池塘戽乾，果見小蛇，乃大罵曰：「這小畜生太無禮，咬我屪子就是你！」",
+      "translation": "Several young boys were bathing together in a pond when one of them was bitten on the buttock by a small snake. The angry boy drained the pond dry and indeed found the small snake. He then loudly cursed, \"This little beast is too rude! It was you who bit my buttock!\"",
+      "number": 42
+    },
+    {
+      "title_zh": "譏人弄乖",
+      "title_en": "Mocking Someone's Trickery",
+      "text": "鳳凰壽，百鳥朝賀，惟蝙蝠不至。鳳責之曰：「汝居吾下，何踞傲乎？」蝠曰：「吾有足，屬于獸，賀汝何用？」一日，麒麟生誕，蝠亦不至，麟亦責之。蝠曰：「吾有翼，屬於禽，何以賀歟？」麟、鳳相會，語及蝙蝠之事，互相慨嘆曰：「如今世上惡薄，偏生此等不禽不獸之徒，真個無奈他何！」",
+      "translation": "The phoenix celebrated its birthday, and all the birds came to pay homage—except for the bat. The phoenix scolded it, saying, \"You are beneath me; why do you act so arrogant?\" Bat replied, \"I am not a bird.\" The bat said, \"I have feet and belong to the category of beasts. Why should I come to congratulate you?\" One day, when the qilin celebrated its birthday, the bat did not attend either, and the qilin also scolded it. The bat said, \"I have wings and belong to birds; why should I come to celebrate?\" The qilin and phoenix met, and they discussed the bat's behavior. They sighed in unison, saying, \"In this corrupt world today, such creatures who are neither bird nor beast have appeared; we truly do not know what to do about them!\"",
+      "number": 43
+    },
+    {
+      "title_zh": "素毒",
+      "title_en": "Poisonous by Nature",
+      "text": "人問：「羊肉與鵝肉，如何這般毒得緊？」或答曰：「生平吃素的。」",
+      "translation": "A person asked, \"Why are mutton and goose meat so poisonous?\" Someone replied, \"Because they have been vegetarian all their lives.\"",
+      "number": 44
+    },
+    {
+      "title_zh": "嘲姓倪",
+      "title_en": "Mocking the Surname Ni",
+      "text": "舊有放手銃詩一首，嘲姓倪者，錄之以供一笑。詩曰：「獨坐書齋手作妻，此情不與外人知。若將左手換右手，便是停妻再娶妻。一擼一擼復一擼，渾身騷癢骨頭迷。點點滴滴落在地，子子孫孫都姓倪（泥）。」",
+      "translation": "There was an old poem about firing a flintlock gun, which mocked those with the surname Ni. I record it here for amusement. The poem says: \"Sitting alone in my study, I take my hand as wife; this feeling is not to be known by outsiders.\" \"If you switch your left hand with your right hand, it becomes abandoning one's wife and remarrying.\" \"Rubbing once, then again, and yet again, my whole body itches with pleasure.\" \"Drops fall to the ground, point by point; generation after generation will bear the surname Ni (Ni).\"",
+      "number": 45
+    },
+    {
+      "title_zh": "白嚼",
+      "title_en": "Chewing in Plain Sight",
+      "text": "三人同坐，偶談及家內耗鼠可惡。一曰：「舍間飲食，落放不得，轉眼被他竊去。」一云：「家下衣服書籍，散去不得，時常被他侵損。」又一曰：「獨有寒家老鼠不偷食咬衣，終夜咨咨叫到天明。」此二人曰：「這是何故？」答曰：「專靠一味白嚼。」",
+      "translation": "Three people were sitting together, and they happened to talk about how annoying the rats at home were. One said, \"In my house, food cannot be left out for a moment; it is stolen by them in the blink of an eye.\" Another said, \"Clothes and books at home cannot be left scattered; they are often damaged by them.\" Another said, \"Only the rats in my humble home do not steal food or chew clothes; instead, they cry all night until dawn.\" The other two asked, \"Why is that?\" He replied, \"Because they rely solely on plain chewing.\"",
+      "number": 46
+    },
+    {
+      "title_zh": "嚼蛆",
+      "title_en": "Chewing Maggots",
+      "text": "有善說笑話者，人嘲之曰：「我家有一狗，落在糞坑中，三年零六個月還不曾死。」其人曰：「既然如此，他吃些甚麼？」答曰：「單靠嚼蛆。」",
+      "translation": "There was a man skilled in telling jokes. Someone mocked him, saying, \"In my home there is a dog that fell into the latrine pit and has not died yet after three years and six months.\" The man asked, \"If so, what does it eat?\" The reply was, \"It only eats maggots.\"",
+      "number": 47
+    },
+    {
+      "title_zh": "嚼蛆",
+      "title_en": "Chewing Maggots",
+      "text": "笑話一擔",
+      "translation": "A Load of Jokes",
+      "number": 48
+    },
+    {
+      "title_zh": "嚼蛆",
+      "title_en": "Chewing Maggots",
+      "text": "秀才年將七十，忽生一子，因有年紀而生，即名年紀。未幾，又生一子，似可讀書者，命名學問。次年，又生一子，笑曰：「如此老年，還要生兒，真笑話也。」因名曰笑話。三人年長無事，俱命入山打柴。及歸，夫問曰：「三子之柴孰多？」妻曰：「年紀有了一把，學問一些也無，笑話到有一擔。」",
+      "translation": "An xiucai scholar, who was nearly seventy years old, suddenly had a son. Because he gave birth at an advanced age, the child was named Nianji (Age). Not long after, he had another son who seemed to be a scholar. He gave him the name Xuewen (Learning). A little while later, he had yet another son, who looked like someone capable of reading and studying. He named him Xuewen (Academic Knowledge). The following year, he had yet another child and laughed, saying, \"To have a son at such an old age is truly a joke.\" Thus, he named him Xiaohua (Joke). The three sons were now grown and had nothing to do, so they were all sent into the mountains to gather firewood. When they returned home, their father asked, \"Which of your three sons brought back more firewood?\" His wife replied, \"Nianji has a little bit, Xuewen has none at all, and Xiaohua actually brought back a whole load.\"",
+      "number": 49
+    },
+    {
+      "title_zh": "聽笑話",
+      "title_en": "Listening to Jokes",
+      "text": "一婦與鄰人私會，其人謂婦曰：「我常要過來會你，礙汝夫在家，奈何？」婦曰：「壁間挖乙孔，你將此物伸過，如他不在，我好通信。」一日，夫在家正講笑話，突見壁間之物，夫詰之，婦無可答，乃慌應曰：「是聽笑話的。」",
+      "translation": "A woman had a secret meeting with her neighbor. The man said to the woman, \"I often want to come over and meet you, but I am hindered by your husband being at home. What can we do about it?\" The woman said, \"Dig a hole in the wall. You extend this thing through it; if he is not at home, I can send you messages.\" One day, the husband was at home telling jokes when he suddenly saw an object coming through the wall. The husband questioned her about it, and the woman had no answer to give. In a panic, she replied, \"It's for listening to jokes.\"",
+      "number": 50
+    },
+    {
+      "title_zh": "引避",
+      "title_en": "Avoiding Conflict",
+      "text": "有勢利者，每出，逢冠蓋，必引避。同行者問其故，答曰：「舍親。」如此屢屢，同行者厭之。偶逢一乞丐，亦效其引避，曰：「舍親。」問：「為何有此令親。」曰：「但是好的，都被你認去了。」",
+      "translation": "A man who was power-hungry and status-conscious, whenever he went out, would always step aside to avoid those with official rank or prestige. Those traveling with him asked why he did this, and he replied, \"Because they are my relatives.\" After repeated instances of this behavior, those traveling with him became annoyed. Once, he encountered a beggar and also imitated the act of stepping aside, saying, \"He is my relative.\" Someone asked, \"Why do you have such an embarrassing relative?\" He replied, \"But all the good ones have already been claimed by you.\"",
+      "number": 51
+    },
+    {
+      "title_zh": "取笑",
+      "title_en": "Being Teased",
+      "text": "甲乙同行，甲望見顯者冠蓋，謂乙曰：「此吾好友，見必下車，我當引避。」不意竟避入顯者之家，顯者既入門，詫曰：「是何白撞，匿我門內！」呼童撻而逐之。乙問曰：「既是好友，何見毆辱？」答曰：「他從來是這般與我取笑慣的。」",
+      "translation": "Jia and Yi were traveling together. Jia saw a prominent official with an entourage of attendants and said to Yi, \"This is my good friend; when he sees me, I must get out of the carriage. I should step aside.\" Unexpectedly, he ended up evading into the official's home. When the official entered his house, he was surprised and said, \"Who is this intruder hiding inside my gate!\" He called over a servant boy to beat him and drive him away. Yi asked, \"If he is your good friend, why did you see him beaten and humiliated?\" He replied, \"This is the usual way he likes to tease me.\"",
+      "number": 52
+    },
+    {
+      "title_zh": "吃橄欖",
+      "title_en": "Eating Olives",
+      "text": "鄉人入城赴酌，腰席內有橄欖焉。鄉人取啖，澀而無味，因問同席者曰：「此是何物？」同席者以其村氣，鄙之曰：「俗。」鄉人以為「俗」是名，遂牢記之。歸謂人曰：「我今日在城嘗一奇物，叫名『俗』。」眾未信，其人乃張口呵氣曰：「你們不信，現今滿口都是俗氣哩。」",
+      "translation": "A man from the countryside went to the city for a banquet and had some olives tucked inside his sash. The man from the countryside took one to eat, but it was astringent and tasteless, so he asked those at the same table, \"What is this thing?\" Those at the table found his rustic manner distasteful and sneered at him, saying, \"It's vulgar.\" The man from the countryside thought that \"Su\" was the name of the dish and thus remembered it carefully. loyd The man returned home and told others, \"Today in the city I tasted a strange delicacy called 'Su.'\" The crowd did not believe him, so the man opened his mouth and exhaled, saying, \"If you don't believe me, there's a full mouth of 'Su' right now.\"",
+      "number": 53
+    },
+    {
+      "title_zh": "避首席",
+      "title_en": "Avoiding the Seat of Honor",
+      "text": "有病瘋疾者，延醫調冶，醫辭不肯用藥。病者曰：「我亦自知難醫，但要服些生痰動氣的藥，改作癆、膨二症。」醫曰：「瘋、癆、膨、膈，同是不起之症，緣何要改？」病者曰：「我聞得瘋、癆、膨、膈，乃是閻羅王的上客。我生平怕做首席，所以要挪在第二、第三。」",
+      "translation": "A man suffering from a mental illness invited a doctor to treat him, but the doctor refused and declined to use medicine. The patient said, \"I also know it is hard to cure, but I just want to take some medicine that produces phlegm and stirs up qi, so my illness can be reclassified as either consumption or distension.\" The doctor said, \"Feng (madness), lao (consumption), peng (distension), and ge (stagnation) are all incurable diseases. Why do you want to change it?\" The patient said, \"I have heard that Feng (madness), Lao (consumption), Peng (distension), and Ge (stagnation) are the honored guests of Yama Wang.\" \"I have always been afraid of being seated first, so I want to move down to second or third place.\"",
+      "number": 54
+    },
+    {
+      "title_zh": "瓦窯",
+      "title_en": "The Brick Kiln",
+      "text": "一人連生數女，招友人飲宴。友作詩一首，戲贈之云：「去歲相招因弄瓦，今年弄瓦又相招。弄去弄來都弄瓦，令正原來是瓦窯。」",
+      "translation": "A man had several daughters in succession and invited his friends to a banquet. His friend composed a poem as a playful gift, saying: \"Last year you invited me because of a daughter; this year again, another daughter brings your invitation.\" \"Whether it's one or many, all are daughters. Your wife must be a brick kiln indeed.\"",
+      "number": 55
+    },
+    {
+      "title_zh": "嘲周姓",
+      "title_en": "Teasing Someone Surnamed Zhou",
+      "text": "浙中鹽化地方，有查、祝、董、許四大族，簪纓世冑，科甲連綿。後有周姓者，偶發兩榜，其居鄉豪橫，欲與四大姓並駕齊驅。里人因作詩嘲之曰：「查祝董許周，黿鼉蛟龍鰍，江淮河海溝，虎豹犀象猴。」",
+      "translation": "In the Yuhua area of Zhezhong, there were four major clans: Zha, Zhu, Dong, and Xu. They were all families of noble lineage with generations of scholars passing imperial examinations. Later, a man surnamed Zhou happened to pass both the provincial and metropolitan exams. He became arrogant in his hometown and wished to rival the four major clans on equal footing. The people in the village therefore composed a poem to mock him, saying: \"Zha, Zhu, Dong Xu and Zhou—soft-shelled turtles, crocodiles, dragons, and loaches. The Yangtze, Huai, He, Hai rivers and ditches—tigers, leopards, rhinoceroses, elephants, and monkeys.\"",
+      "number": 56
+    },
+    {
+      "title_zh": "嘲滑稽客",
+      "title_en": "Teasing a Jester",
+      "text": "一人留客午飯，其客已啖盡一碗，不見添飯。客欲主人知之，乃佯言曰：「某家有住房一所要賣。」故將碗口向主人曰：「椽子也有這樣大。」主人見碗內無飯，急呼童使添之。因問客曰：「他要價值幾何？」客曰：「如今有了飯吃，不賣了。」",
+      "translation": "A man invited a guest for lunch, and the guest had already finished one bowl of rice but saw no more being served. The guest wanted to let the host know, so he pretended to say, \"I have a house I want to sell.\" He then turned his bowl toward the host and said, \"Even the rafters are this big.\" Seeing that there was no rice in the bowl, the host hurriedly called a servant to add more. The host then asked the guest, \"How much is it worth?\" The guest replied, \"Now that I have rice to eat, I won't sell it anymore.\"",
+      "number": 57
+    },
+    {
+      "title_zh": "認族",
+      "title_en": "Claiming Kinship",
+      "text": "有王姓者，平素最好聯譜，每遇姓相似者，不曰寒宗，就說敝族。偶遇一汪姓者，指為友曰：「這是舍侄。」友曰：「汪姓何為是盛族？」其人曰：「他是水窠路裡王家。」遇一匡姓者，亦認是侄孫。人曰：「匡與王，一發差得遠了。」答曰：「他是㰙墻內王家。」又指一全姓，亦云：「是舍弟。」「一發甚麼相干？」其人曰：「他從幼在大人家做蔑片的王家。」又指姓毛者是寒族，友大笑其荒唐，曰：「你不知，他本是我王家一派，只因生了一個尾巴，弄得毛頭毛腦了。」人問：「王與黃同音，為何反不是一家？」答同：「如何不是？那是廿一都田頭八家兄。」",
+      "translation": "A man surnamed Wang was always eager to connect with others through genealogical records. Whenever he met someone with a similar surname, he would either call them his distant relative or say they were from the same clan. Once, he encountered a man surnamed Wang and pointed to him, saying to someone else, \"This is my nephew.\" His friend asked, \"Why are the Wang surname people considered an illustrious clan?\" The man replied, \"He is from the Wang family of Shuoke Lu.\" When he met a man surnamed Kuang, he also claimed him to be his grandnephew. Someone said, \"Kuang and Wang are as different as night and day.\" He replied, \"He is from the Wang family inside Kuangqiang.\" Then he pointed to a man surnamed Quan and also said, \"This is my younger brother.\" Someone asked, \"What possible connection could there be?\" \"What on earth do you have to do with each other?\" The man replied, \"He is from the Wang family who used to work as a servant in our household when he was young.\" He then pointed to a man surnamed Mao and claimed he was from his clan. His friend laughed at him for being absurd, saying, \"You don't know—he originally belonged to our Wang family, but because he grew a tail, he became all hairy-headed and silly.\" Someone asked, \"Since Wang and Huang are pronounced the same, why aren't they from the same family?\" He replied, \"How could they not be?\" \"They are my elder brothers from the eight families in Tian Tou of the Twenty-first Du.\"",
+      "number": 58
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "book": "新鐫笑林廣記",
+  "volume": "第七卷世諱部 Volume 7: Worldly Taboos Department",
+  "volume_number": "七",
+  "volume_name": "世諱部",
+  "source": "https://ctext.org/wiki.pl?if=gb&chapter=530719",
+  "stories": [
+    {
+      "title_zh": "開路神",
+      "title_en": "Kailu Shen",
+      "text": "金剛遇開路神，羨之曰：「你我一般長大，我怎如你著好吃好。」開路神曰：「阿哥不知，我只圖得些口腹耳。若論穿著，全然不濟，剝去一層遮羞皮，渾身都是篾片了。」",
+      "translation": "Jingang met Kailu Shen and envied him, saying, \"We grew up the same way; how come you have such good food while I don't?\" Kailu Shen said, \"Brother does not know. I only manage to get enough for my mouth and belly.\" \"If it comes to clothing,\" he continued, \"I am completely helpless. If you peel away one layer of skin just to cover my shame, I would be nothing but bamboo splinters all over.\"",
+      "number": 1
+    },
+    {
+      "title_zh": "焦面鬼",
+      "title_en": "Jiaomian Gui",
+      "text": "一幫閑漢途遇人家出喪，前面焦面鬼王，以為大老官人也，禮拜甚恭。少頃，大雨如注，而鬼身上紙衣被雨濯去。閒漢曰：「白日見鬼，我只道是大老官，卻原來也是個篾片。」",
+      "translation": "A group of idlers happened to meet a funeral procession on the road. Seeing Jiaomian Guiwang at the front, they thought he was an important old official and bowed with great respect. After a while, it rained heavily as if pouring down, and the paper clothes on the ghost's body were washed away by the rain. The idler said, \"Seeing a ghost in broad daylight—I thought he was an important official, but it turns out he is also just a bamboo splinter.\"",
+      "number": 2
+    },
+    {
+      "title_zh": "咽糠",
+      "title_en": "Yankang",
+      "text": "一閑漢咽糠而出，忽遇大老官留家早飯，答曰：「適間用狗肉過飽，飯是吃不下了，有酒倒飲幾杯。」既飲忽吐，而糠出焉。主見，驚問曰：「你說吃了狗肉，為何吐此？」其人睨視良久，曰：「咦，我自吃的狗肉，想必狗曾吃糠來。」",
+      "translation": "An idler came out chewing bran when he suddenly met an important official who invited him to have breakfast at his home. He replied, \"I just ate too much dog meat and can't eat any more rice, but if there is wine, I could drink a few cups.\" After drinking, he suddenly vomited, and bran came out. The host saw this and was startled, asking, \"You said you had eaten dog meat—why are you vomiting this?\" The man glanced at it for a long time and said, \"Hmph. I ate dog meat myself. It must be that the dog had eaten bran before.\"",
+      "number": 3
+    },
+    {
+      "title_zh": "望煙囪",
+      "title_en": "Wangyancun",
+      "text": "富兒才當飲啖，閑漢畢集。因問曰：「我這裡每到飯熟，列位便來，就一刻也不差，卻是何故？」諸閑漢曰：「遙望煙囪內煙出，即知做飯，熄則熟矣，如何得錯？」富兒曰：「我明日買個行灶來煮，且看你們望甚麼？」眾曰：「你煨了行灶，我等也不來了。」",
+      "translation": "As soon as the wealthy boy was about to eat, a crowd of idlers gathered. He then asked, \"Every time I am about to have a meal, you all come immediately without fail. Why is that?\" The idlers replied, \"We look from afar and see the smoke coming out of the chimney. That tells us you are cooking. When it stops, we know the food is ready. How could we possibly be wrong?\" The wealthy boy said, \"Tomorrow I will buy a portable stove to cook with. Let's see what you look at then.\" The crowd replied, \"If you use a portable stove, we won't come anymore.\"",
+      "number": 4
+    },
+    {
+      "title_zh": "老白相",
+      "title_en": "Laobai Xiang",
+      "text": "荒歲閑漢無處活口，值官府於玄妙觀施粥，閑漢私議曰：「我等平昔鮮衣美食，今往吃，必貽人笑。」俄延久之，無奈腹中餓甚，曰：「姑待眾飢民吃過，尾其後可也。」遠望人散而往，則粥已盡矣，乃以指拉食釜杓間餘粥。道士見而問之，答曰：「我等原是撈（老）白相耳。」",
+      "translation": "In a year of famine, the idlers had nowhere to make a living. When the government began distributing porridge at Xuanmiao Guan, the idlers privately discussed among themselves, \"We used to wear fine clothes and eat good food. If we go there now, people will surely laugh at us.\" After a long delay and unable to bear the hunger in their stomachs, they said, \"Let us wait until all the starving people have eaten first. Then we can follow behind them.\" When they arrived after seeing that the crowd had dispersed, the porridge was already gone. They then used their fingers to scrape up the remaining bits of porridge from between the ladle and the pot. A Daoist priest saw them and asked, and they replied, \"We are originally just old white faces.\"",
+      "number": 5
+    },
+    {
+      "title_zh": "借腦子",
+      "title_en": "Jie Naozi",
+      "text": "蘇州人極奉承大老官，平日常謂主人曰：「要小子替死，亦所甘心。」一日主病，醫曰：「病入膏肓，非藥石所能治療，必得生人腦髓配藥，方可救得。」遍索無有，忽省悟曰：「某人平日常自謂肯替死，豈吝惜一腦乎？」即呼之至，告以故。乃大驚曰：「阿呀，使勿得，吾裡蘇州人，從來無腦子個。」",
+      "translation": "People from Suzhou were extremely flattering toward important officials. They often said to their masters, \"If you need me to die in your place, I would gladly do so.\" One day the master fell ill. The doctor said, \"The illness has reached the heart and lungs; it cannot be cured by medicine or stones. One must obtain brain marrow from a living person to mix with the medicine in order to save him.\" They searched everywhere without success, and then suddenly realized, \"That person often said he was willing to die for us. Would he be stingy with just one brain?\" They immediately called him over and told him the reason. He was greatly shocked and said, \"Oh my! If that's the case, I am a native of Suzhou. We have never had any brains at all.\"",
+      "number": 6
+    },
+    {
+      "title_zh": "呵脬",
+      "title_en": "Hefa",
+      "text": "一幫閑，見大老官生得面方耳圓，遂贊不置口。其人曰：「你又在此呵卵脬了？」",
+      "translation": "A group of idlers saw that an important official had a broad face and round ears, so they praised him without stopping. The man said, \"Are you praising me again just for my looks?\"",
+      "number": 7
+    },
+    {
+      "title_zh": "曲蟮",
+      "title_en": "Qu shan",
+      "text": "幫閑者自誇技能曰：「我件件俱精，天下無比。」一人曰：「只有一物最像。」問：「是何物？」答曰：「曲蟮。」問：「何以像他？」曰：「殺之無血，剮之無肉，要長就長，要短就短，又會唱曲，又會呵脬。」",
+      "translation": "An idler boasted of his skills, saying, \"I am excellent at everything and have no equal in the world.\" Someone said, \"There is only one thing you resemble most.\" He asked, \"What is it?\" The reply was, \"An earthworm.\" He asked, \"Why do I resemble it?\" They said, \"Because when you kill it, there is no blood; when you slice it open, there is no meat. It can be long or short as desired. It can sing songs and flatter people.\"",
+      "number": 8
+    },
+    {
+      "title_zh": "件件熟",
+      "title_en": "Jianjian Shu",
+      "text": "幫閑人除夜與妻同飯，忽然笑曰：「我想一生止受用得一個『熟』字。你看大老官，那個不熟？私窠小娘，那個不熟？遊船上，那個不熟？戲子歌童，那個不熟？蕭管唱曲的朋友，那個不熟？」話未畢，妻忽大慟。其人問故，曰：「天殺的！你既件件皆熱，如何我這件過年布衫，偏不替我贖。」",
+      "translation": "An idler was having dinner with his wife on New Year's Eve when he suddenly laughed and said, \"I think all my life I have only enjoyed the word 'shu', meaning cooked or mature.\" Look at those important officials—doesn't every one of them seem experienced and well-connected? As for the young women in secret relationships, isn't each one familiar with flattery and tricks? On pleasure boats, isn't every person well-acquainted with idle pleasures? Actors and singing boys—doesn't each one know the ropes thoroughly? \"Friends who play flutes, pipes, or sing songs—who among them is not well-versed?\" Before he could finish speaking, his wife suddenly burst into loud weeping. The man asked why she was crying, and she said, \"Heavens! That damned wretch!\" \"You say you are good at everything—then why didn't you manage to redeem my New Year's cloth coat for me?\"",
+      "number": 9
+    },
+    {
+      "title_zh": "活千年",
+      "title_en": "Huo Qian Nian",
+      "text": "一門客謂貴人曰：「昨夜夢公活了一千年。」貴人曰：「夢生得死，莫非不祥麼。」其人遽轉口曰：「啐！我說差了，正是夢公死了一千年。」",
+      "translation": "A retainer said to a nobleman, \"Last night I dreamed that you lived for one thousand years.\" The nobleman replied, \"Dreams of life and death—could this not be an ill omen?\" The retainer quickly changed his tone and said, \"Nonsense!\" \"I got it wrong. What I meant was that in my dream you had been dead for one thousand years.\"",
+      "number": 10
+    },
+    {
+      "title_zh": "屁香",
+      "title_en": "Pi Xiang",
+      "text": "有奉貴人者，貴人偶撒一屁，即曰：「那裡伽楠香？」貴人慚曰：「我聞屁乃穀氣，以臭為正。今反香，恐非吉兆。」其人即以手招氣嗅之曰：「如今有點臭了。」",
+      "translation": "There was a flatterer of an important person. When the nobleman happened to pass gas, he immediately said, \"Where is that sweet-scented agarwood?\" The nobleman was embarrassed and said, \"I have heard that passing gas is a byproduct of digestion, and its stench is natural.\" \"Now it smells fragrant instead. I fear this may not be an auspicious omen.\" The flatterer immediately waved his hand to catch the smell and said, \"Now it is starting to get a bit smelly.\"",
+      "number": 11
+    },
+    {
+      "title_zh": "撞席",
+      "title_en": "Zhuang Xi",
+      "text": "老鼠與獺結交。鼠先請獺，獺答席，邀鼠過河，暫往覓食。忽一貓見之欲捕，鼠慌曰：「請我的倒不見，吃我的到來了。」",
+      "translation": "A rat and an otter became friends. The rat invited the otter first, who accepted the invitation to a banquet. The otter then invited the rat across the river for a short while to find food. Suddenly, a cat saw them and wanted to catch them. The rat panicked and said, \"The one who was invited is not here, but the one who wants to eat me has come!\"",
+      "number": 12
+    },
+    {
+      "title_zh": "泥高壁",
+      "title_en": "Ni Gao Bi",
+      "text": "燕子銜泥做窠，搬取蚯蚓上面土。蚓憤極曰：「你要泥高頂壁，為何把我來悔氣？」燕子云：「我專怪你呵人家卵脬。」",
+      "translation": "A swallow carried mud to build a nest and took the earth from on top of an earthworm. The worm was furious and said, \"You want high walls made of mud—why did you bring me bad luck?\" The swallow replied, \"I especially blame you for flattering people.\"",
+      "number": 13
+    },
+    {
+      "title_zh": "嫖院吏",
+      "title_en": "Piao Yuan Li",
+      "text": "一吏假扮舉人，往院嫖妓。妓以言戲之曰：「我今夜身上來，不得奉陪。」吏曰：「申上來我就駁回去。」妓曰：「不是這等說，行房齷齪。」吏曰：「刑房齷齪，我兵房是乾乾淨淨的。」曰：「是月經。」吏曰：「我從幼習的是詳文、招稿，不管你甚麼《易經》、《詩經》。」妓曰：「相公差矣，是流經。」吏曰：「劉洪他是都吏，你拿來嚇我，難道就怕了不成？」",
+      "translation": "A clerk disguised himself as a juren (a degree holder) and went to the brothel. The prostitute teased him by saying, \"I am on my period tonight and cannot accompany you.\" The clerk said, \"If it comes from above, I will reject it right away.\" The prostitute said, \"It's not that simple. Having sex is a messy business.\" The clerk replied, \"The criminal office deals with messiness; my military office is clean and tidy.\" He said, \"It's menstruation.\" The clerk said, \"Since childhood I have studied detailed documents and draft confessions. I don't care about your 'Yijing' or 'Shijing'.\" The prostitute said, \"Sir is mistaken. It's menstrual flow.\" The clerk replied, \"Liu Hong was a chief clerk. You bring him up to scare me? Do you think I am afraid?\"",
+      "number": 14
+    },
+    {
+      "title_zh": "換班",
+      "title_en": "Huan Ban",
+      "text": "一皂隸妻性多淫，夫晝夜防範。一日該班，將妻陰戶左傍畫一皂看守，並為記認。妻復與人幹事，擦去前皂，姦夫倉卒仍畫一皂形于右邊而去。及夫落班歸家，驗之已非原筆，因怒曰：「我前記在左邊的，緣何移在右邊了？」妻曰：「虧你做衙門多年，難道不要輪流換班的麼？」",
+      "translation": "A wife of a common official was very lustful, and her husband guarded against her day and night. One day when it was his shift, he drew a black mark on the left side of his wife's genital area and assigned someone to guard her, using this as an identification. The wife then had another affair with a man and wiped away the previous black mark. In a rush, her lover drew a new black mark on the right side before leaving. When the husband finished his shift and returned home, he checked it and found that the mark was no longer as before. He became angry and said, \"I marked it on the left side earlier—why has it now moved to the right?\" The wife replied, \"You've worked in the government office for many years. Don't you know that shifts must be rotated?\"",
+      "number": 15
+    },
+    {
+      "title_zh": "爭坐",
+      "title_en": "Zheng Zu",
+      "text": "鼻與眉爭坐位，鼻曰：「一切香臭，皆我先知，我之功大矣。汝屬無用之物，何功之有，輒敢位居我上？」眉曰：「是則然矣，假如鼻頭坐上位，世上有此理否？」",
+      "translation": "The nose and the eyebrows quarreled over their positions. The nose said, \"All scents—good or bad—are first known by me. My contribution is great.\" \"You are useless things. What merit do you have to dare sit above me?\" The eyebrows replied, \"That may be true, but suppose the nose were in a higher position—would that make sense in this world?\"",
+      "number": 16
+    },
+    {
+      "title_zh": "軟硬",
+      "title_en": "Ruan Ying",
+      "text": "屪子與鼻子爭論，屪子云：「我能生男育女，有功人世，你有何德能，輒敢居我上位？」鼻曰：「我居五岳之中，能知氣味，汝何敢輕覷我？」二物爭之不決，告訴於口。口曰：「我勸你們和了罷。」鼻倔強不肯。口怒曰：「屪子還有軟的時節，你做鼻頭，倒是這等硬掙。」",
+      "translation": "The scrotum and the nose argued. The scrotum said, \"I can produce sons and daughters and have contributed to humanity. What virtue or ability do you possess that dares to place you above me?\" The nose replied, \"I reside among the Five Great Mountains and can discern scents. How dare you look down on me?\" The two could not resolve their dispute and went to report it to the mouth. The mouth said, \"I suggest you both stop quarreling and make peace.\" The nose was stubborn and refused. The mouth angrily said, \"Even the scrotum can be soft at times, yet you, as a nose, are so stubborn and hard-headed.\"",
+      "number": 17
+    },
+    {
+      "title_zh": "婢子",
+      "title_en": "Bi Zi",
+      "text": "有婢生子，既長，或問其號。子謙遜久之，乃曰：「賤號小梅。」問：「尊公原號何梅？」答曰：「非也，乃家母名臘梅耳。」",
+      "translation": "A servant girl gave birth to a child. After the child grew up, someone asked for his courtesy name. The son hesitated for a long time before saying, \"My humble name is Xiaomei.\" The person asked, \"What was your father's courtesy name? Which 'mei' did he use?\" He replied, \"No. It is my mother's name, Lamei.\"",
+      "number": 18
+    },
+    {
+      "title_zh": "尿壺罵",
+      "title_en": "Niouhu Ma",
+      "text": "一僕人之使，俗言鼻裡。鼻也，出傾夜壺。歸告主人曰：「阿爹，方才尿鱉罵我，又罵阿爹。」主人曰：「胡說！尿鱉如何會罵人？」小使曰：「起初罵了我鼻，後連聲罵曰：『鼻鼻鼻，鼻鼻鼻。』豈不把阿爹都罵在裡頭了？」",
+      "translation": "A servant's name, commonly referred to as Bilǐ. He is the nose, coming from Qingye Hu. Returning to inform his master, he said, \"Father, just now Niouhu Ma insulted me and also insulted you, Father.\" The master said, \"Nonsense!\" \"How could Niouhu possibly insult someone?\" The young servant said, \"At first he cursed my nose, and then kept shouting repeatedly: 'Bi bi bi, bi bi bi.'\" \"Doesn't that include cursing Father as well?\"",
+      "number": 19
+    },
+    {
+      "title_zh": "對戲",
+      "title_en": "Dui Xi",
+      "text": "戲子出門，囑其妻曰：「同伴來，可拿出戲鼓，教他對對戲眼。」妻誤聽，以為脫出屁股，教他對屁眼。同伴至，乃以後庭與之。伴問云：「你家主公比我做法如何？」婦云：「好是好，只是急撮戲文，板還要上緊些。」",
+      "translation": "An actor was leaving the house and instructed his wife, \"If my fellow actors come, you may bring out the drum and have them match their lines with mine.\" The wife misunderstood and thought he meant to take out his buttocks and have others face his anus. When the fellow actors arrived, she presented her rear end to them. One of the companions asked, \"How does your master's performance compare with mine?\" The wife replied, \"It is good, but since the play was hastily put together, the rhythm should be a bit tighter.\"",
+      "number": 20
+    },
+    {
+      "title_zh": "屁股痛",
+      "title_en": "Buttu Tong",
+      "text": "麻蒼蠅與青蒼蠅結為兄弟，青蠅引麻蠅到一酒席上。麻蠅恣意飲啖，被小廝拿住，將竹簽插入屁股，遞燈草與他使棍。半日才得脫身，遇著青蠅泣訴曰：「承你摯帶，吃倒盡有，只是屁股痛得緊。」",
+      "translation": "A green housefly and a black housefly became brothers. The green fly brought the black fly to a banquet. The black fly ate and drank freely, but was caught by a young servant, who inserted a bamboo skewer into his buttock and gave him a piece of rush to use as a stick. After half a day, he managed to free himself and met the green fly, weeping and complaining, \"I appreciate your hospitality; I had plenty to eat, but my buttock hurts terribly.\"",
+      "number": 21
+    },
+    {
+      "title_zh": "龍陽娶",
+      "title_en": "Longyang Qu",
+      "text": "一龍陽新娶，才上床，即攀婦臀欲幹。婦曰：「差了。」答曰：「我從小學來的，如何得差？」婦曰：「我從小學來，卻不是這等的，如何不差？」",
+      "translation": "A man who was newly married to a young male beauty climbed onto the bed and immediately grabbed his wife's buttocks, wanting to have sex. The woman said, \"You're mistaken.\" He replied, \"I learned this since childhood. How could it be wrong?\" old The woman said, \"I also learned from a young age, but not like this. How can it not be wrong?\"",
+      "number": 22
+    },
+    {
+      "title_zh": "撒精",
+      "title_en": "Sa Jing",
+      "text": "一人患㾀病，醫曰：「必須用少男之精，配藥服之，方可還原。」乃令人持器往覓。途遇一美童，告以故。童令以器置地，遂解褲，向臀後撒之。求者曰：「精出在前，為何取之以後？」童曰：「你不知，出處不如聚處。」",
+      "translation": "A man suffered from an illness. The doctor said, \"It is essential to use the semen of a young boy and mix it with medicine for consumption; only then can he recover.\" He therefore sent someone holding a vessel to go in search. On the way, they encountered a handsome young boy and explained the reason to him. The boy told them to place the vessel on the ground, then unfastened his pants and urinated toward his buttocks into it. The seeker said, \"Semen comes out in front; why are you collecting it from behind?\" The boy replied, \"You don't know. The place where it exits is not as good as the place where it gathers.\"",
+      "number": 23
+    },
+    {
+      "title_zh": "臀湊",
+      "title_en": "Tunchou",
+      "text": "一龍陽新婚之夜，以臀湊其妻。妻摸之，訝曰：「你如何沒有的？」龍陽亦摸其妻，訝曰：「你如何也沒有的？」",
+      "translation": "On his wedding night, a man who loved young male beauties pressed his buttocks against his wife. The wife touched it and was surprised, saying, \"How come you don't have any?\" The man also touched his wife and was equally surprised, saying, \"How is it that you don't have one either?\"",
+      "number": 24
+    },
+    {
+      "title_zh": "襲職",
+      "title_en": "Xizhi",
+      "text": "龍陽生子，人謂之曰：「汝已為人父矣，難道還做這等事？」龍陽指其子曰：「深欲告致，只恨襲職的還小，再過十餘年，使當急流勇退矣。」",
+      "translation": "A man who loved young male beauties had a son. Someone said to him, \"You are already a father; how could you still do such things?\" The man pointed to his son and said, \"I deeply wish to report this, but I regret that the one who should inherit my position is still too young. In another ten or so years, he will be able to step down bravely from the current path.\"",
+      "number": 25
+    },
+    {
+      "title_zh": "兌車",
+      "title_en": "Dui Che",
+      "text": "兩童以後庭相易，俗云兌車是也。一童甚黠，先戲其臀，甫完事，即賴之而走。被弄者趕至其家，且哭且叫曰：「要還我，要還我！」其母不知何事，出勸曰：「學生不要哭，他賴了你甚麼，待我替他還你罷。」",
+      "translation": "Two boys exchanged their anuses; this is commonly referred to as \"duiche.\" One boy was particularly cunning. He first played with the other's buttock, and just after finishing, he denied it and ran away. The one who had been played with chased him to his home, crying and shouting, \"Give it back to me! Give it back to me!\" The boy's mother, not knowing what had happened, came out to comfort him and said, \"Don't cry, young scholar. What did he cheat you of? Let me repay it for you.\"",
+      "number": 26
+    },
+    {
+      "title_zh": "擠進",
+      "title_en": "Jijin",
+      "text": "一少年落夜船，有人挨至身邊，將陽物插入臀窟內。少年駭問：「為何？」答云：「人多，擠了進去。」又問：「為何只管動？」答曰：「這卻是我不是，在此擦癢哩。」",
+      "translation": "A young man boarded a night boat, and someone squeezed close to his side, inserting their penis into the boy's anus. The youth was startled and asked, \"Why?\" The person replied, \"There are too many people; it just squeezed in.\" He asked again, \"Why keep moving?\" The person replied, \"That's my fault. I was just scratching an itch here.\"",
+      "number": 27
+    },
+    {
+      "title_zh": "夫夫",
+      "title_en": "Fu Fu",
+      "text": "有與小官契厚者，及長，為之娶妻。講過通家不避。一日，闖入房中，適親家母在，問女曰：「何親？」女答曰：「夫夫。」",
+      "translation": "There was someone who had a close bond with a young official. When the youth grew up, he arranged for him to marry a wife. They had previously agreed that families on good terms would not avoid each other. One day, he barged into the room and found the mother-in-law present. He asked his daughter, \"Whose relative is this?\" The daughter replied, \"Husband.\"",
+      "number": 28
+    },
+    {
+      "title_zh": "倒做龜",
+      "title_en": "Dao Zuo Gui",
+      "text": "龍陽畢姻後，日就外宿。妻走母家，訴曰：「我不願隨他了。」母驚問故，答曰：「我是好人家兒女，為甚麼倒去與他做烏龜。」",
+      "translation": "After marrying a young male beauty, the man began to stay out every day. The wife went to her mother's home and complained, \"I no longer wish to follow him.\" The mother was shocked and asked why. The daughter replied, \"I am the child of a respectable family. Why should I go and be his turtle?\"",
+      "number": 29
+    },
+    {
+      "title_zh": "老了叫",
+      "title_en": "Lao Le Jiao",
+      "text": "有龍陽年紀過大者，偶撒一屁，狎客為之叩齒。眾問其故，答曰：「你們不聽見老了叫麼？」",
+      "translation": "There was an elderly man who loved young male beauties. Once, after he passed gas, his lover clapped their teeth in appreciation. The others asked why, and the man replied, \"Didn't you hear 'lao le jiao'?\"",
+      "number": 30
+    },
+    {
+      "title_zh": "壽板",
+      "title_en": "Shou Ban",
+      "text": "有好男風者，夜深投宿飯店，適與一無鬚老翁同宿。暗中以為少童也，調之。此翁素有臀風，欣然樂就。極歡之際，因許之以製衣打簪，俱云不願。問所欲何物，答曰：「願得一副好壽板。」",
+      "translation": "A man who loved boys stayed at an inn late at night and happened to share a room with a beardless old man. In the dark, he assumed it was a young boy and flirted with him. This old man had always enjoyed anal pleasures and happily accepted his advances. At the height of their pleasure, he offered to make clothes and hairpins for him, but both said they did not wish to do so. When asked what they desired, the old man replied, \"I would like a good set of coffin planks.\"",
+      "number": 31
+    },
+    {
+      "title_zh": "小娘",
+      "title_en": "Xiaoniang",
+      "text": "牝狗與牛交而生男，及長，人問其爺娘何在，指牛曰：「此爺也。」指狗曰：「此娘也。」其人訝曰：「這等一個大老官，如何配恁個小娘？」",
+      "translation": "A female dog mated with a bull and gave birth to a boy. When he grew up, someone asked where his father and mother were, and he pointed at the bull and said, \"This is my father.\" He pointed at the dog and said, \"This is my mother.\" The person was surprised and said, \"Such a big old man, how could he be matched with such a small woman?\"",
+      "number": 32
+    },
+    {
+      "title_zh": "好睡納鞋",
+      "title_en": "Haoshui Naxie",
+      "text": "妓好睡，每至日高不醒。有闖寡門者，竊一酒壺而去。他日客至，又復鼾睡如初，客去方醒。檢點衣物，失去繡鞋一隻，及下床，忽于陰中墜出。蓋客笑其善睡，戲將此鞋納之而去也。鴇兒急曰：「仔細再尋一尋，前日不見的酒壺，只怕也還在裡面。」",
+      "translation": "A courtesan loved to sleep and often did not wake up until the sun was high in the sky. Someone sneaked into her home, stole a wine jar, and left. On another day when guests arrived, she snored as usual and did not wake up until they had gone. When checking her belongings, she found that one embroidered shoe was missing. When she got out of bed, it suddenly fell out from between her legs. It turned out the guest had laughed at her for sleeping so much and playfully inserted the shoe there before leaving. The madam hurriedly said, \"Be careful and search again. The wine jar that went missing the other day might also still be inside.\"",
+      "number": 33
+    },
+    {
+      "title_zh": "羨妓陰物",
+      "title_en": "Xianji Yinwu",
+      "text": "嫖客自妓館歸，妻問曰：「這些娼婦，經過千萬人，此物定寬，有甚好處，而朝夕戀他？」夫曰：「不知甚麼緣故，但是名妓，越接得客多，此物越好。」妻曰：「原來如此，這也何難，為甚不早說？」",
+      "translation": "A man returning from a brothel was asked by his wife, \"These courtesans have been through thousands of men. Their private parts must be very loose. What good is there in them that you are so attached to them day and night?\" The husband replied, \"I don't know the reason. But for famous courtesans, the more clients they have, the better their private parts become.\" The wife said, \"So it's like that. That is not difficult at all. Why didn't you say so earlier?\"",
+      "number": 34
+    },
+    {
+      "title_zh": "豁拳",
+      "title_en": "Huoquan",
+      "text": "嫖客與妓密甚，相約同死。既設酖酒二甌，妓讓客先飲。客飲畢，因促妓，妓伸拳曰：「我的量窄，與你豁了這杯罷。」",
+      "translation": "A man and a courtesan were very close, and they made an agreement to die together. They prepared two bowls of poisoned wine. The courtesan insisted the man drink first. old The woman stretched out her fist and said, \"My capacity is small; let's clink our cups and finish this together.\"",
+      "number": 35
+    },
+    {
+      "title_zh": "嫌口闊",
+      "title_en": "Xian K Kou Kuo",
+      "text": "一少年嫖妓，嫌妓口闊，因述俗語云：「口闊屄兒大。」妓即撮口罵曰：「小猢猻。」",
+      "translation": "A young man visited a courtesan and found her mouth too wide. He then quoted an old saying, \"Wide mouth means big vagina.\" The courtesan immediately puckered her lips and scolded him, saying, \"Little monkey!\"",
+      "number": 36
+    },
+    {
+      "title_zh": "夢裡夢",
+      "title_en": "Meng Li Meng",
+      "text": "妓與客久別復會，各道相思。妓云：「我無夜不夢見你同食，同眠，同遊戲，乃是積想所致。」客曰：「我亦夢之。」妓問曰：「夢怎的？」曰：「我夢見你，不夢見我。」",
+      "translation": "After a long separation, the courtesan and her client reunited and each spoke of their longing for one another. The courtesan said, \"I dreamt of eating with you, sleeping with you, and playing together every night. It was caused by my deep longing for you.\" The client said, \"I had the same dream as well.\" The courtesan asked, \"What did you dream?\" He said, \"I dreamed of you, but not of myself.\"",
+      "number": 37
+    },
+    {
+      "title_zh": "年倒縮",
+      "title_en": "Nian Daosuo",
+      "text": "一商人嫖妓，問其青春幾何。妓曰：「十八。」越數年，商人生意折本，仍過其家。妓忘之。問其年，則曰：「十七。」又過數年，入其家問之，則曰：「十六。」商人忽涕泣不止，妓問何故，曰：「你的年紀，倒與我的本錢一般，漸漸的少了。想到此處，能不令人傷心。」",
+      "translation": "A merchant visited a courtesan and asked her how old she was. The courtesan replied, \"Eighteen.\" Several years later, when the merchant had gone bankrupt in business, he still visited her home. The courtesan forgot about him. When asked how old she was, she said, \"Seventeen.\" After several more years had passed, when he entered her home and asked again, she replied, \"Sixteen.\" The merchant suddenly began to weep uncontrollably. The courtesan asked why, and he said, \"Your age is like my capital; it has been decreasing gradually.\" Thinking of this, how could one not feel heartbroken?\"",
+      "number": 38
+    },
+    {
+      "title_zh": "子嫖父幫",
+      "title_en": "Zi Piao Fu Bang",
+      "text": "有子好嫖而餓其父者，父謂之曰：「與其用他人閑聞，何不帶挈我入席，我既得食，汝亦省錢，豈不兩便？但不可說破耳。」子從之。父在妓家，諸事極善幫襯體貼。妓問曰：「何處得此幫客，大異常人。」子曰：「不好說得。他家媳婦與我有些私情，是我養活也，所以這般體貼。」明日，妓述此語於翁，翁曰：「雖則如此，他家母親也與我有些勾搭，只當兒子一般，不得不體貼他。」",
+      "translation": "There was a son who liked visiting courtesans and neglected to feed his father. The father said to him, \"Rather than spend money on others, why not bring me along? I would get food, and you could save money. Would that not be convenient for both of us?\" \"But just don't reveal the truth.\" The son followed his father's suggestion. While at the courtesan's home, the father was extremely helpful and attentive in all matters. The courtesan asked, \"Where did you get such a helpful guest? He is very different from ordinary people.\" The son said, \"It's hard to say. He is in a secret relationship with my wife at home, and I support him financially, so he is being this attentive.\" The next day, the courtesan told this to the old man. The old man said, \"Even though that is true, his mother at home also has some connection with me. I treat her like my own son, so I have no choice but to be attentive to him.\"",
+      "number": 39
+    },
+    {
+      "title_zh": "父多一次",
+      "title_en": "Fu Duo Yi Ci",
+      "text": "子好遊妓館，父責之曰：「不成器的畜生，我到娼家，十次倒有九次見你。」子曰：「這等說來，你還多我一次，反來罵我？」",
+      "translation": "The son liked to visit courtesans. The father scolded him and said, \"You good-for-nothing brat! When I go to a brothel, nine out of ten times I see you there.\" The son replied, \"If that's the case, you have been one more time than me. How can you turn around and scold me?\"",
+      "number": 40
+    },
+    {
+      "title_zh": "醉敲門",
+      "title_en": "Zui Qiaomen",
+      "text": "光棍醉敲妓門，妓知其乏鈔，閉而不納，辭以有客，實無客也。光棍破門而進，妓滅燈仰臥于床。光棍摸著其足，與男人無異，乃笑曰：「他不拒我，果然是有客。」",
+      "translation": "A bachelor, drunk, knocked on the door of a courtesan. Knowing he had no money, she shut the door and refused to let him in, telling him there were already guests, when in fact there were none. The bachelor broke into her room anyway. The courtesan extinguished the lamp and lay on the bed facing upward. The bachelor felt her foot, which was no different from a man's, and laughed, saying, \"She didn't refuse me. Indeed, there are guests here.\"",
+      "number": 41
+    },
+    {
+      "title_zh": "纏住",
+      "title_en": "Chan Zhu",
+      "text": "一螃蟹與田雞結為兄弟，各要賭跳過澗，先過者居長。田雞溜便早跳過來。螃蟹方行，忽被一女子撞見，用草捆住。田雞見他不來，回轉喚云：「緣何還不過來？」蟹曰：「不然幾時來了，只因被這歪刺骨纏住在此，所以耽遲來不得。」",
+      "translation": "A crab and a frog became brothers, each vying to bet on who could jump across the ravine first. The one who crossed first would be the elder brother. The frog quickly jumped over first. As the crab was about to jump, he suddenly encountered a woman who saw him and tied him up with grass. The frog noticed that the crab had not arrived and turned back, calling out, \"Why haven't you come yet?\" The crab said, \"It's not that I don't want to come. If it weren't for this sharp-boned woman tying me up here, I would have arrived long ago.\"",
+      "number": 42
+    },
+    {
+      "title_zh": "龜渡",
+      "title_en": "Gui Du",
+      "text": "有一士欲過河，苦無渡船。忽見有一大龜，士曰：「烏龜哥，煩你渡我過去，我吟詩謝你。」龜曰：「先吟後渡。」士曰：「莫被你哄，先吟兩句，渡後再吟兩句，何如？」龜曰：「使得。」士吟曰：「身穿九宮八卦，四遊龍王也怕。」龜喜甚，即渡士過河。士續曰：「我是衣冠中人，不與烏龜答話。」",
+      "translation": "A scholar wanted to cross a river but was troubled by the lack of a ferry. He suddenly saw a large turtle and said, \"Brother Turtle, would you kindly ferry me across the river? I will recite poetry to thank you.\" The turtle said, \"Recite first, then I'll ferry you.\" The scholar said, \"Don't try to trick me. Let me recite two lines first, and after you ferry me across, I'll recite another two. How does that sound?\" The turtle said, \"That's acceptable.\" The scholar recited: \"Clad in the Eight Trigrams and Nine Palaces, I travel four ways even the Dragon King fears.\" The turtle was very pleased and immediately ferried the scholar across the river. The scholar continued, \"I am a man of culture and dignity; I do not speak with a turtle.\"",
+      "number": 43
+    },
+    {
+      "title_zh": "骨血",
+      "title_en": "Gu Xue",
+      "text": "妓接一西客，臨去，欲煖其心，偽云：「有三個月身孕，是你的骨血，須來一看。」客信之，如期果至。妓計困，乃以小白犬一隻置兒籃內，蒙被而誑客曰：「兒生矣，熟睡不可攪動他。」客啟視狗身，乃大喜，撫犬曰：「果是咱親骨血，在娘胎裡就穿上羊皮襖子了。」",
+      "translation": "A courtesan received a Western guest. As he was about to leave, she wanted to warm his heart and lied by saying, \"I am three months pregnant with your child; you must come back for a look.\" The guest believed her and returned on the appointed day. The courtesan, now in a difficult situation, placed a small white puppy inside a baby's cradle, covered it with a blanket, and deceived the guest by saying, \"The child has been born. He is sleeping soundly and must not be disturbed.\" The guest opened the cradle and saw a puppy, greatly pleased. He patted the dog and said, \"Indeed, this is our true blood relation; he was already wearing a sheepskin coat in his mother's womb.\"",
+      "number": 44
+    },
+    {
+      "title_zh": "妻當稍",
+      "title_en": "Qi Dang Shao",
+      "text": "一人好賭，日夜不歸。已破家，止剩一妻，乃以出稍。不幾擲，復輸去。因請再饒一擲，贏家曰：「講絕了稍做妻，如何又饒？」答曰：「其中有一緣故，房下還是室女，作少了價錢，饒一擲不為過。」贏家曰：「那有此理？」曰：「你若不信，只看我自做親以來，何曾有一夜在家裡？」",
+      "translation": "A man loved gambling and did not return home day or night. After he had ruined his family's fortune, only his wife remained, so she left him. Not long after, the man lost again in a gamble. loyd The gambler then asked for one more chance. The winner said, \"We already agreed that if you lost again, your wife would become my concubine. How can I let you off now?\" He replied, \"There is a reason. The woman downstairs is still a virgin; the price was reduced, so it's not too much to give you one more chance.\" The winner said, \"How can that be reasonable?\" He replied, \"If you don't believe me, just look at how many nights I have spent at home since we married?\"",
+      "number": 45
+    },
+    {
+      "title_zh": "取頭",
+      "title_en": "Qu Tou",
+      "text": "好賭者，家私輸盡，不能過活，取繩上吊。忽見一鬼在梁上云：「快拿頭來。」此人曰：「也虧你開得這口，我輸到這般地位，還來問我要頭！」",
+      "translation": "A gambling addict had lost all his family's possessions and could no longer make a living, so he took a rope to hang himself. Suddenly, he saw a ghost on the beam saying, \"Quickly give me your head.\" The man said, \"It's a pity you opened your mouth. I've already lost everything to this point; now you still come to ask for my head!\"",
+      "number": 46
+    },
+    {
+      "title_zh": "捉頭",
+      "title_en": "Zhuo Tou",
+      "text": "按君訪察，匡章、陳仲子及齊人，俱被捉。匡自信孝子，陳清客，俱不請託。惟齊人有一妻一妾，饋送顯者求解。顯者為見按君，按君述三人罪狀，都是敗壞風俗的頭目，所以訪之。顯者曰：「匡章出妻屏子，仲子離母避兄，老公祖捉得極當。那齊人是叫化子的頭，也捉他做甚麼？」",
+      "translation": "During an inspection, Lord An visited and investigated. Kuang Zhang, Chen Zhongzi, and other people from Qi were all arrested. Kuang Zhenxin was a filial son, and Chen Qingke did not seek any favors or make requests. Only the man from Qi, who had one wife and one concubine, bribed influential people to secure his release. The influential person presented the case before Lord An. Lord An described the crimes of the three men, all of whom were ringleaders who had corrupted social customs, which was why he investigated them. The influential person said, \"Kuang Zhang sent away his wife and banished his son; Zhongzi left his mother to avoid his elder brother. Your Honor has caught them exactly as they deserve.\" \"As for that man from Qi, he is the leader of beggars. Why catch him at all?\"",
+      "number": 47
+    },
+    {
+      "title_zh": "白日鬼",
+      "title_en": "Bai Ri Gui",
+      "text": "法師上壇，焰口施食。天將明矣，正要安寢，又見一班披枷帶鎖、折手斷腳的餓鬼索食。師問：「陽世作何生理，受此果報？」眾雲：「皆是拐騙子，做中保、鑲局害人的。」又問：「夜間為何不來同領法食？」答曰：「我們一班，都是白日鬼。」",
+      "translation": "The Taoist priest ascended the altar and performed a ritual to feed hungry ghosts. As daylight was about to break, just as he was preparing to rest, the priest saw a group of hungry ghosts in shackles and chains, with broken hands and feet, begging for food. The priest asked, \"What kind of life did you lead in the mortal world that has brought upon you this karmic retribution?\" The ghosts replied, \"We are all child traffickers who acted as middlemen and schemed to harm people.\" The priest then asked, \"Why didn't you come at night to receive the food offering?\" They replied, \"We are a group of ghosts who appear during the day.\"",
+      "number": 48
+    },
+    {
+      "title_zh": "公子頭",
+      "title_en": "Gongzi Tou",
+      "text": "一人生平慣做分頭，扣剋人家銀錢。死後閻王痛恨，發在黑暗地獄內受罪。進獄時即云：「列位在此，不見天日，何不出一公分，開個天窗？」",
+      "translation": "A man had long been accustomed to acting as a middleman, deducting silver and money from others. After his death, King Yama was furious with him and sent him to suffer punishment in a dark hell. As he entered the prison, he said, \"Everyone here cannot see the sky or sunlight. Why don't we all contribute a little and open up a skylight?\"",
+      "number": 49
+    },
+    {
+      "title_zh": "穿窬",
+      "title_en": "Chuan Yu",
+      "text": "一士人夜讀，見偷兒穴牆有聲，時爐內滾湯正沸，提湯潛伺穴口。及牆既穿，偷兒先以腳進，士遂擒住其兩腿，徐以滾湯淋之。賊哀告求釋，士從容謂曰：「多也不敢奉承，只盡此一壺罷。」",
+      "translation": "A scholar was reading at night when he heard the sound of a thief digging through the wall. At that moment, there was boiling water in the stove, so he took up the pot and secretly waited by the hole. When the wall was finally broken through, the thief first put his feet in. The scholar immediately grabbed both of his legs and slowly poured boiling water over them. The thief pleaded pitifully for release, but the scholar calmly said, \"I dare not be too generous, so I will just finish this one pot.\"",
+      "number": 50
+    },
+    {
+      "title_zh": "新雷公",
+      "title_en": "Xin Leigong",
+      "text": "雷公欲誅忤逆子，子執其手曰：「且慢擊。我且問你還是新雷公，還是舊雷公？」雷公曰：「何謂？」其人曰：「若是新雷公，我竟該打死。若是舊雷公，我父忤逆我祖，你一向在那裡去了？」",
+      "translation": "Leigong wanted to punish a disrespectful son. The son held his hand and said, \"Please wait before striking.\" I will ask you first— are you the new Leigong or the old one?\" Leigong asked, \"What do you mean?\" The man said, \"If you are the new Leigong, I should be beaten to death.\" \"If you are the old Leigong, my father was disrespectful to my grandfather—where have you been all this time?\"",
+      "number": 51
+    },
+    {
+      "title_zh": "叫城門",
+      "title_en": "Jiaocheng Men",
+      "text": "一人最好唱曲。探親回遲，城門已閉，因叫：「開門！」管門者曰：「你唱一曲我聽，便放你進來。」此人曰：「唱便唱，只是我唱，你要答應。」管門曰：「依你。」其人先說白云：「叫周倉！」城上應曰：「嗄。」「關爺爺在城外了，還不快迎！」復應曰：「嗄。」其人曰：「你既曉得關出你爺在城外，就該開門，如何還敢要我唱曲？」",
+      "translation": "A man loved singing songs the most. After visiting relatives and returning late, he found the city gate already closed, so he shouted, \"Open the gate!\" The gatekeeper said, \"Sing a song for me and I will let you in.\" The man replied, \"I'll sing, but when I do, you must respond.\" The gatekeeper said, \"As you wish.\" The man first recited a line: \"Call Zhou Cang!\" From the city wall came the response, \"Ah.\" \"Master Guan is outside the city—don't you dare delay in welcoming him!\" Another response came, \"Ah.\" The man said, \"Since you already know Master Guan is outside the city, why not open the gate—how dare you still ask me to sing a song?\"",
+      "number": 52
+    },
+    {
+      "title_zh": "老鰥",
+      "title_en": "Lao Guang",
+      "text": "蘇州老鰥，人問：「有了令郎麼？」答云：「提起小兒，其實心酸。前面妻祖與妻父定親，說得來垂成了，被一個天殺的用計矗退了，致使妻父不曾娶得妻母，妻母不曾養得賤內，至今小兒沓然。」",
+      "translation": "An old bachelor from Suzhou was asked by someone, \"Have you had a son yet?\" He replied, \"When I mention my son, it's really heartbreaking.\" \"In the beginning, my wife's grandmother and her father had arranged a marriage, which was almost finalized. But an evil man used tricks to break it off, preventing my wife's father from marrying my mother-in-law and thus my mother-in-law could not raise me. As a result, I have no son at all.\"",
+      "number": 53
+    },
+    {
+      "title_zh": "抵償",
+      "title_en": "Dichang",
+      "text": "老虎欲吃猢猻，猻誑曰：「我身小，不足以供大嚼。前山有一巨獸，堪可飽餐，當引導前去。」同至山前，一角鹿見之，疑欲啖己，乃大喝云：「你這小猢猻，許我拿十二張虎皮送我，今只拿一張來，還有十一張呢？」虎驚遁，罵曰：「不信這小猢猻如此可惡，倒要拐我抵銷舊帳！」",
+      "translation": "A tiger wanted to eat a macaque, who lied and said, \"I am small and not enough for you to chew on. There is a giant beast in the mountains ahead that would be enough for a full meal; I will lead you there.\" When they arrived at the mountain, a unicorn saw them and suspected that the tiger wanted to eat him. It shouted angrily, \"You little macaque! You promised me twelve tiger skins, but now you only brought one—where are the remaining eleven?\" The tiger was startled and fled, cursing as it went, \"I never thought this little macaque could be so wicked—trying to trick me into paying off an old debt!\"",
+      "number": 54
+    },
+    {
+      "title_zh": "不利語",
+      "title_en": "Buli Yu",
+      "text": "一翁無子，三婿同居，新造廳房一所。其長婿飲歸，敲門不應，大罵：「牢門為何關得恁早！」翁怒，呼第二婿訴曰：「我此屋費過千金，不是容易掙的，出此不利之語，甚覺可惡。」次婿曰：「此房若賣也，只好值五百金罷了。」翁愈怒，又呼第三婿述之。三婿云：「就是五百金，勸阿伯賣了也罷，若然一場天火。連屁也不值。」",
+      "translation": "An old man had no son, and three sons-in-law lived together. They recently built a new hall. The eldest son-in-law returned home drunk and knocked on the door, but no one answered. He shouted angrily, \"Why is the gate locked so early!\" The old man was furious and called the second son-in-law to complain, saying, \"I spent thousands of gold coins on this house; it wasn't easy to earn. Saying such an unlucky thing is very annoying.\" The second son-in-law said, \"If this house were sold, it would be worth no more than five hundred gold coins.\" The old man became even angrier and called for the third son-in-law to hear about it. The third son-in-law said, \"Even if it's worth five hundred gold coins, I suggest Uncle to sell it. Otherwise, a heavenly fire might break out.\" It wouldn't be worth even a fart.\"",
+      "number": 55
+    },
+    {
+      "title_zh": "吹叭喇",
+      "title_en": "Chuipala",
+      "text": "樂人夜歸，路見偷兒挖一壁洞，戲將叭喇插入吹起。內驚覺追趕，遇賊問云：「你曾見吹叭喇的麼？」",
+      "translation": "lington A musician returning home at night saw a thief digging a hole in the wall. As a joke, he inserted his pala (a musical instrument) into the hole and began to play it. Those inside were startled and chased after him, asking a thief they met along the way, \"Have you seen someone playing the pala?\"",
+      "number": 56
+    },
+    {
+      "title_zh": "戒狗肉",
+      "title_en": "Jie Gourou",
+      "text": "乞兒戒吃狗肉，眾丐勸曰：「不必。」曰：「我不食之久矣。」眾曰：「你便戒他，他卻不戒你。」",
+      "translation": "A beggar vowed to stop eating dog meat. Other beggars advised him, \"There is no need.\" He said, \"I have not eaten it for a long time.\" The others replied, \"Even if you abstain from eating dog meat, the dogs do not stop eating you.\"",
+      "number": 57
+    },
+    {
+      "title_zh": "病爛腿",
+      "title_en": "Bing Lan Tui",
+      "text": "一乞兒病腿爛，仰臥市中，狗見之欲餂。乞兒曰：「畜生，少不得是你口裡食，何須這般性急？」",
+      "translation": "A beggar had a leg sorotten from illness. He lay on his back in the marketplace, and a dog saw him and wanted to lick it. The beggar said, \"Beast, you will eventually get the food from my mouth—why such impatience?\"",
+      "number": 58
+    },
+    {
+      "title_zh": "吃荇葉",
+      "title_en": "Chi Xingye",
+      "text": "清客貧甚，晨起無米，煮荇葉食之而出。少頃，赴富兒席，飲空心酒過多，遂大噦，而荇葉出焉。恐人嘲笑，乃指而言曰：「好古怪，早上吃白滾湯時，用不多幾個蓮心，如何一會子小荷葉出得恁快？」",
+      "translation": "A poor guest from the Qing dynasty was so destitute that in the morning he had no rice. He boiled water spinach leaves to eat and then went out. After a short while, he attended the banquet of a wealthy person, drank too much empty stomach wine, and began to vomit violently. Out came the water spinach leaves he had eaten earlier. Afraid of being laughed at, he pointed and said, \"How strange! When I had a bowl of clear boiling soup this morning, if only I had added several lotus seeds, how could so many small lotus leaves come up so quickly in such a short time?\"",
+      "number": 59
+    },
+    {
+      "title_zh": "書手",
+      "title_en": "Shushou",
+      "text": "一人嫖院，飲酒過深，上床即鼾睡不醒，妓恐次日難索嫖錢，因而撫弄其陽。客既醒，問曰：「汝是何人？」妓曰：「李雲卿的粗手。」其人曰：「理刑廳的書手，為何在此弄我的卵？」",
+      "translation": "A man went to a brothel and drank too much alcohol. As soon as he got into bed, he snored loudly and fell into a deep sleep. The prostitute was afraid that she would not be able to collect the fee for his visit the next day, so she began to fondle his penis. When the man awoke, he asked, \"Who are you?\" The prostitute replied, \"I am Li Yunqing's rough hand.\" The man said, \"If you are a clerk from the Office of Judicial Administration, why were you playing with my testicles?\"",
+      "number": 60
+    },
+    {
+      "title_zh": "滑吏",
+      "title_en": "Hua Li",
+      "text": "有快手，妻頗美。鄰吏每欲調之不得，乃壁間鑿一孔，俟其夫出，將陽物穿過而誘之。偶為快手瞧見，一把捏住不放。吏贊曰：「好快手。」吏以唾塗陽具，盡力一拔，遂縮回。快手亦贊曰：「好滑吏。」",
+      "translation": "There was a quick-handed official whose wife was quite beautiful. A neighboring clerk, who had long desired her but failed to seduce her, drilled a hole in the wall and waited for her husband to leave. He then passed his penis through the hole to entice her. One day, the quick-handed official happened to see this and grabbed it tightly without letting go. The clerk praised him, saying, \"What a fast hand.\" The official spat on his penis and pulled with all his might. It then retracted back into the wall. The quick-handed official also praised, saying, \"What a slippery clerk.\"",
+      "number": 61
+    },
+    {
+      "title_zh": "做牌",
+      "title_en": "Zuo Pai",
+      "text": "有叩吏門者，妻曰：「出去了。你可是要做牌的麼？留大些一個東道在我房裡，任憑你要擱就擱，要捺就捺，要牒就牒，要銷就銷，要抽就抽，無有個做不來的。」",
+      "translation": "Someone knocked on the official's door. His wife said, \"He is out.\" Are you here to play cards?\" I have left a big host in my room. You can do whatever you like—place it, press it, file it, cancel it, or pull it out. There is nothing I cannot manage.\"",
+      "number": 62
+    },
+    {
+      "title_zh": "作僕",
+      "title_en": "Zuo Pu",
+      "text": "有投靠作僕者，自言：「一生不會橫撐船，不肯縮退走，見飯就住的。」主人喜而納之。一日，使捻河泥，辭曰：「說過不會橫撐船。」又使其插秧，曰：「說過不會縮退走。」主人憤甚，伺其飯，輒連進不止，乃以「見飯就住」語責之。其人張口向主人曰：「請看喉嚨內曾見飯否？」",
+      "translation": "There was someone who came to rely on another as a servant, saying: \"I have never been able to steer a boat sideways, I refuse to retreat or back down, and whenever I see food, I stay put.\" The master was pleased and accepted him. One day, the master sent him to stir river mud. He refused, saying, \"I said I don't know how to steer a boat sideways.\" Then he was told to plant rice seedlings and replied, \"I said I would not retreat or back down.\" The master became very angry. When he noticed the servant eating continuously without stopping, he scolded him with the words \"see food and stop.\" The man opened his mouth toward the master and said, \"Please look—have you seen any rice in my throat?\"",
+      "number": 63
+    },
+    {
+      "title_zh": "戲改杜詩",
+      "title_en": "Xigai Du Shi",
+      "text": "有老妓年逾耳順，猶強施膏沐，以媚少年。恐露白髮，偽作良家妝束，以冠覆之。俗眼不辨，竟有為其所惑者。有名士於席間談及，戲改杜詩一首，以嘲之云：「老去韆鞦強不寬，興來今夜盡君歡。羞將短髮還桃鬢，笑學良家也帶冠。陰水似從千澗落，金蓮高聳兩峰寒。明年此際知誰在，醉抱雞巴仔細看。」一時絕倒。",
+      "translation": "There was an old prostitute who had passed the age of sixty. She still insisted on applying makeup and oil to her hair in order to please young men. Afraid that her white hair would be seen, she pretended to dress like a respectable woman and covered it with a hat. The common people could not tell the difference, and some were actually deceived by her. A scholar mentioned this at a banquet and jokingly altered one of Du Fu's poems to mock her, saying: \"Though old, I still insist on tight corsets; tonight, if my mood strikes, I will enjoy your company fully.\" Ashamed to let my short hair show like peach blossoms, I laughingly imitate a respectable woman by wearing a hat as well. The dark water seems to fall from countless mountain streams; golden lotuses rise high, and the two peaks remain cold. Who will be here at this time next year? When drunk, hold it tightly and look carefully.\" Everyone burst into laughter.",
+      "number": 64
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "book": "新鐫笑林廣記",
+  "volume": "第四卷形體部 Volume 4: Physical Form Department",
+  "volume_number": "四",
+  "volume_name": "形體部",
+  "source": "https://ctext.org/wiki.pl?if=gb&chapter=147883",
+  "stories": [
+    {
+      "title_zh": "嘲鬍賣契",
+      "title_en": "Chao Hu Maiqi",
+      "text": "鬍子家貧揭債，特把髭鬚質戤。 只因無計謀生，情願央中借貸。 上連鼻孔人中，下至喉嚨為界。 計開四址分明，兩鬢篷鬆在外。 根根真正鬍鬚，並無陰毛雜帶。 若還過期不贖，聽作豬鬃變賣。 年分月日開填，居間借重卵袋。",
+      "translation": "Hu Zi's family was poor and in debt, so he specially pawned his beard as collateral. It was because he had no means to make a living; he voluntarily asked an intermediary for a loan. From the nose and philtrum above, down to the throat as the boundary. The calculation clearly specifies four areas; both temples are loosely combed outward. Each and every genuine beard hair, without any pubic hair mixed in. If not redeemed after the deadline, it will be treated as pig bristles for sale. The year, month, and day are filled in; the intermediary relies on a scrotum-shaped pouch.",
+      "number": 1
+    },
+    {
+      "title_zh": "呵凍筆",
+      "title_en": "He Dong Bi",
+      "text": "一人見春意一冊，曰：「此非春畫，乃夏畫也。不然，何以赤身露體？」又一人曰：「亦非夏畫，乃冬畫也。」問曰：「何故？」答曰：「你不見每幅上，個個鬍子在那裏呵凍筆。」",
+      "translation": "A person saw a book titled \"Spring Intentions\" and said, \"This is not a painting of spring; it is a painting of summer.\" Otherwise, why would the figures be naked? Another person said, \"It is not a painting of summer either; it is a painting of winter.\" Asked, \"Why so?\" Answered, \"Don't you see on every painting, each man has a beard there, blowing on his frozen brush.\"",
+      "number": 2
+    },
+    {
+      "title_zh": "揪腎毛",
+      "title_en": "Chou Shen Mao",
+      "text": "一人對鬍子曰：「我昨晚夢見你做了官，旗傘執事，吆喝齊聲，好不威闊。」鬍子大喜。其人又云：「我夢裡罵了你、你就呼皂隸來打我，被我將你鬍鬚一把揪住。」鬍子云：「罵了官長，自然該打。後來畢竟如何？」其人曰：「也就醒了，醒來一隻手還揪住一把卵毛，緊緊不放。」",
+      "translation": "A person said to a bearded man, \"Last night I dreamed that you became an official, with banners and umbrellas in attendance, shouting in unison; it was very impressive.\" The bearded man was greatly pleased. That person added, \"In my dream I scolded you, and you immediately called over the black-clad attendants to beat me. I grabbed your beard by the roots.\" The bearded man said, \"Insulting an official is naturally deserving of a beating. But in the end, how did it turn out?\" That person said, \"I just woke up. Upon waking, one hand was still tightly gripping a bunch of pubic hair and wouldn't let go.\"",
+      "number": 3
+    },
+    {
+      "title_zh": "觀相",
+      "title_en": "Guan Xiang",
+      "text": "一相士苦無生意，拉住人相。那人曰：「不要相。」相者強之再三，只得解褲出具，謂曰：「此物倒求一觀。」相者端視良久，乃作贊詞云：「看你生在一臍之下，長于兩膀之間，軟柔柔而向東向西，硬棚棚而矗上矗下，遇妻妾而無禮，應子孫而有功。一生梗直，兩子送終。日後還有二十年好運。」問他有何好處，曰：「生得一臉好鬍鬚。」",
+      "translation": "A fortune-teller, suffering from a lack of business, stopped people to read their faces. That person said, \"Don't read my face.\" The fortune-teller insisted repeatedly until the man finally took off his pants and presented himself, saying, \"This thing actually seeks a look.\" The fortune-teller examined it carefully for a long time and then composed an eulogy, saying: \"Looking at you born beneath one navel, growing between two shoulders, soft and pliant as you sway east to west, firm and upright as you rise up and down, when meeting wife or concubine you show no courtesy, yet in begetting descendants you achieve merit. Throughout your life, upright and forthright; two sons will see you to the end of your days.\" You still have twenty more years of good fortune ahead.\" When asked what the benefit was, he said, \"He has a fine beard on his face.\"",
+      "number": 4
+    },
+    {
+      "title_zh": "愁窮",
+      "title_en": "Chou Qiong",
+      "text": "有鬍子愁窮，一友謔之曰：「據兄家事，不下二千金，何以過愁若此？」鬍者曰：「二千金何在？」友曰：「兄面上現有千七百了，難道令正處便沒有須私房？」",
+      "translation": "A bearded man was worried about poverty. A friend teased him, saying, \"According to your family's affairs, it is no less than two thousand gold pieces. Why are you so troubled?\" The bearded man asked, \"Where are these two thousand gold pieces?\" His friend said, \"You already have seventeen hundred of them on your face. Could there not be some private savings in your wife's quarters?\"",
+      "number": 5
+    },
+    {
+      "title_zh": "鬍瘌殺",
+      "title_en": "Hu La Sha",
+      "text": "或看審囚回，人問之，答曰：「今年重囚五人，俱有色認：一痴子，一顛子，一瞎子，一鬍子，一瘌痢。」問如何審了，答曰：「只鬍子與瘌痢吃虧，其餘免死。」又問何故，曰：「只聽見問官說痴弗殺，顛弗殺，一眼弗殺，鬍子搭瘌殺。」",
+      "translation": "When someone returned from examining prisoners, people asked him about it. He replied, \"This year there are five serious prisoners, all of whom have distinctive features: one is a fool, one is mad, one is blind, one has a beard, and one has ringworm.\" When asked how they were judged, he replied, \"Only the bearded man and the one with ringworm suffered losses; the rest were spared death.\" When asked why, he said, \"I only heard the judge say 'do not kill the fool, do not kill the madman, do not kill the blind man, but beard and ringworm must be killed.'\"",
+      "number": 6
+    },
+    {
+      "title_zh": "直縫橫縫",
+      "title_en": "Zhi Feng Heng Feng",
+      "text": "北方極寒之地，一婦倚牆撒尿，溺未完而尿已凍，連陰毛結于石上。呼其夫至，以口呵之。夫近視而鬍者也，呵之不化，連氣亦結成冰，鬚毛互凍而不解。乃命家僮鑿開，吩咐曰：「看仔細子下鑿，連著直縫的是毛，連著橫縫的是鬚。」",
+      "translation": "In the extremely cold northern regions, a woman leaned against a wall to urinate. Before she had finished, her urine froze, and even her pubic hair became stuck to the stone. She called for her husband to come and blew warm breath on it with his mouth. The husband was nearsighted and had a beard; he blew on it, but the ice did not melt. Even his breath froze into ice, causing his beard and hair to freeze together and remain stuck. He then ordered his servant to chisel it open, instructing him, \"Be careful when you strike. What is connected along the vertical crack is hair; what is connected along the horizontal crack is beard.\"",
+      "number": 7
+    },
+    {
+      "title_zh": "被剃",
+      "title_en": "Bei Ti",
+      "text": "貧婦裸體而臥，偷兒入其家，絕無一物可取。因思賊無空討，見其陰戶多毛，遂剃之而去。婦醒大駭，以告其夫。夫大叫曰：「世情這等惡薄，家中的毛尚且剃了去，以後連腮鬍子竟在街上走不得了！」",
+      "translation": "A poor woman lay naked. A thief entered her home but found absolutely nothing to steal. Thinking that thieves cannot leave empty-handed, he saw the woman's pubic hair was abundant and so shaved it before leaving. The woman awoke in great alarm and told her husband about it. Her husband shouted in anger, \"How cruel and heartless the world is! Even the hair at home has been shaved off. In the future, we won't even be able to walk on the street with our beards!\"",
+      "number": 8
+    },
+    {
+      "title_zh": "拋錨",
+      "title_en": "Pao Mao",
+      "text": "道士、和尚、鬍子三人過江，忽遇狂風大作，舟將顛覆。僧、道慌甚，急把經卷掠入江中，求神救護。而鬍子無可擲得，惟將鬍鬚逐根拔下，投于江內。僧、道問曰：「你拔鬍鬚何用？」其人曰：「我在此拋毛（錨）。」",
+      "translation": "A Taoist priest, a monk, and a bearded man were crossing the river when suddenly fierce winds arose, causing the boat to nearly capsize. The monk and priest panicked greatly and hastily threw their scriptures into the river in a desperate plea for divine protection. The bearded man had nothing to throw and so plucked out his beard strand by strand, casting it into the river. The monk and priest asked, \"Why are you pulling out your beard?\" The man replied, \"I am throwing this hair (anchor) here.\"",
+      "number": 9
+    },
+    {
+      "title_zh": "鬍子改屄",
+      "title_en": "Hu Zi Gai Bi",
+      "text": "裁縫、皮匠、妓女三人，同席行令，各要道本行四句，貫串葉韻。縫匠曰：「失去一背掛，拾得一披風。改了一背掛，落下兩袖桶。」皮匠曰：「失去一雙鞋，拾得一雙靴。改了一雙鞋，落下兩桶皮。」妓者曰：「失去一張屄，拾得一鬍子。改了一張屄，落他一口齒。」",
+      "translation": "A tailor, a leatherworker, and a prostitute were sitting together playing a drinking game. Each had to recite four lines about their trade, with the verses rhyming and flowing smoothly. The tailor said: \"Lose a back strap, find a cloak instead.\" \"Alter one back strap; two sleeve tubes fall away.\" The leatherworker said: \"Lose a pair of shoes, find a pair of boots instead. Alter one pair of shoes; two buckets of leather fall away.\" The prostitute said: \"Lose a vagina, find a beard instead. \"Alter one vagina; his teeth fall out.\"",
+      "number": 10
+    },
+    {
+      "title_zh": "不斟酒",
+      "title_en": "Bu Zhen Jiu",
+      "text": "一家宴客，坐中一大鬍子，酒僮畏縮不前，杯中空如也。主舉杯朝拱數次，鬍子慍曰：「安得有酒？」主罵僮為何不斟，僮曰：「這位相公沒有嘴的。」鬍子忿極，揭鬚以示，曰：「這不是嘴，還是你娘的屄不成？」",
+      "translation": "A family was hosting a banquet. Among the guests sat a big-bearded man, and the wine servant hesitated to approach, leaving his cup empty. The host raised his cup toward him several times, but the bearded man angrily asked, \"How can there be wine?\" The host scolded the servant for not pouring. The servant replied, \"This gentleman has no mouth.\" The bearded man became extremely angry and pulled up his beard to show him, saying, \"If this is not a mouth, then what else could it be but your mother's vagina?\"",
+      "number": 11
+    },
+    {
+      "title_zh": "吃白麵",
+      "title_en": "Chi Bai Mian",
+      "text": "一僧人、一經紀、一妓女同途，陡遇大雪，遂往古廟避之。三人議曰：「今日我等在此，各將大雪為題，要插入自家本色。」和尚曰：「片片片，碎剪鵝毛空中旋。落在我山門上，好似一座白玉殿。」經紀曰：「片片片，碎剪鵝毛空中旋。落在我扁擔上，好似一把白玉劍。」妓女曰：「片片片，碎剪鵝毛空中旋。落在我屄毛上，好似鬍子吃白麵。」",
+      "translation": "A monk, a broker, and a prostitute traveling together suddenly encountered heavy snowfall and so went to an old temple for shelter. The three discussed, saying, \"Today we are here together; each of us should take the heavy snow as a theme and include something about our own nature.\" The monk said, \"Piece by piece, like shredded goose feathers swirling in the air. Falling on my temple gate, it resembles a white jade hall.\" The broker said, \"Piece by piece, like shredded goose down swirling in the air. Falling on my bamboo pole, it resembles a jade sword.\" The prostitute said, \"Piece by piece, like shredded duck down swirling in the air. Falling on my pubic hair, it looks just like a beard eating white noodles.\"",
+      "number": 12
+    },
+    {
+      "title_zh": "通譜",
+      "title_en": "Tong Pu",
+      "text": "有一人鬚長過腹，人見之，無不贊為美髯。偶一日，遇見風鑒先生，請他一相。相者曰：「可惜尊髯短了些。」其人曰：「我之鬚已過腹，人盡贊羨，為何反嫌其短？」相者曰：「若再長得寸許，便好與下邊通譜了。」",
+      "translation": "There was a man whose beard grew past his abdomen; whenever people saw it, they all praised it as a beautiful beard. One day by chance, he met the fortune-teller Feng Jian and asked him to read his face. The fortune-teller said, \"Unfortunately, your beard is a bit too short.\" The man said, \"My beard already reaches my abdomen; everyone praises it. Why do you say it is too short?\" The fortune-teller replied, \"If it were an inch longer, it would be just right to connect with the one below.\"",
+      "number": 13
+    },
+    {
+      "title_zh": "聯宗",
+      "title_en": "Lian Zong",
+      "text": "鬍鬚與眉毛曰：「當今世情澆薄，必要幫手相助，我已與鬢毛連矣。看來眼前高貴，惟二位我們俱在頭面，聯了甚好。」眉曰：「承不棄微末，但我根基淺薄，何不往下路孔家前門，一帶茂林，旗杆底下，聯的更好。」",
+      "translation": "The beard and eyebrows said, \"In today's world of thin human relations, one must have allies for help. I have already connected with the temple hair.\" \"Looking at it now, we appear noble and dignified; since both of us are on the face, this connection is very good.\" The eyebrows said, \"I appreciate your not looking down on me, but my foundation is shallow. Why don't you go further down to the front gate of the Kong family by the roadside? There's a dense grove and beneath the flagpole—connecting there would be even better.\"",
+      "number": 14
+    },
+    {
+      "title_zh": "一般鬍",
+      "title_en": "Yi Ban Hu",
+      "text": "兩人聚論：「《論語》一書，皆講鬍子。開章就說：『不亦悅乎』，『不亦樂乎』，『不亦君子乎』，這三個都是好鬍；『為人謀而不忠乎』，『與朋友交而不信乎』，『傳不習乎』，這三個是不好鬍；『君子者乎』，『色壯者乎』，這兩個鬍一好一不好。」或問：「使乎，使乎。」答曰：「上面的鬍與下面的鬍，總是一般。」",
+      "translation": "Two people gathered to discuss: \"The book Lun Yu is all about beards. The first chapter says, 'Isn't it pleasant?' 'Isn't it joyful?' 'Is he not a gentleman?' These three are good beards; 'When planning for others but not being loyal,' 'In dealing with friends but not trustworthy,' 'Have you reviewed what was taught?' These three are bad beards. 'The gentleman is thus,' 'The bold in appearance'—these two beards, one good and one bad.\" Someone asked, \"A messenger, a messenger.\" The reply was, \"The beard above and the beard below are always the same.\"",
+      "number": 15
+    },
+    {
+      "title_zh": "稀鬍子",
+      "title_en": "Xi Hu Zi",
+      "text": "一稀鬍子要相面，相士云：「尊相雖不大富，亦不至貧。」鬍者云：「何以見得？」相士曰：「看公之鬚，比上不足，比下有餘。」",
+      "translation": "A man with a sparse beard wanted his face read. The fortune-teller said, \"Although your appearance does not indicate great wealth, it also does not suggest poverty.\" The bearded man asked, \"How can you tell?\" The fortune-teller said, \"Looking at your beard—it is not enough to compare with the upper class but more than sufficient compared to those below.\"",
+      "number": 16
+    },
+    {
+      "title_zh": "出鬚藥",
+      "title_en": "Chu Xu Yao",
+      "text": "一光臉自覺無鬚，非丈夫氣，持銀往醫肆，求買出鬚藥。適醫生他出，醫妻忽傳一方云：「可將尿脬一個打氣，每日放嘴邊滾撞，自然就長出來。」醫歸，問出何典，妻曰：「醫者，意也。我前日初嫁你時，一根也沒得，被你的脬撞過不多幾時，即長出恁一臉鬍鬚來。」",
+      "translation": "A man with a smooth face felt he had no beard and thus lacked the air of a true man. He took silver to an apothecary, seeking to buy a growth potion for facial hair. Just then, the doctor was away. The doctor's wife suddenly handed him a prescription and said, \"Take one urinary bladder, inflate it with air, and every day roll it against your mouth; naturally, hair will grow.\" When the doctor returned home and asked where this remedy came from, his wife said, \"A physician relies on intent. When I first married you a few days ago, not a single hair existed. After your bladder bumped against me for just a short time, so many beard hairs grew on your face.\"",
+      "number": 17
+    },
+    {
+      "title_zh": "問有貓",
+      "title_en": "Wen You Mao",
+      "text": "一婦患病，臥于樓上，延醫治之。醫適買魚歸，途遇邀之而去，遂置魚于樓下。登樓診脈，忽想起樓下之魚，恐被貓兒偷食，因問：「下面有貓（毛）否？」母在傍曰：「我兒要病好，先生問你，可老實說了罷。」婦答曰：「多是不多，略略有幾根兒。」",
+      "translation": "A woman fell ill and lay upstairs. She invited a doctor to treat her. The doctor had just bought fish when he was invited along the way, so he left the fish downstairs. After climbing upstairs to take her pulse, the doctor suddenly remembered the fish downstairs and was afraid it would be stolen by a cat. He therefore asked, \"Are there any cats (hairs) below?\" The mother standing by said, \"If my child wants to get well, Master, you are asking me. Just tell the truth.\" The woman answered, \"Not many, just a few strands or so.\"",
+      "number": 18
+    },
+    {
+      "title_zh": "罵鬚少",
+      "title_en": "Ma Xu Shao",
+      "text": "鬍子行路，一孩戲之曰：「鬍子迎風走，只見鬍子不見口。」鬍子忿甚，揭須露口，指而罵曰：「這不是口，倒是你娘的屄不成！」小兒被罵，歸而哭訴於母。母慰之曰：「我兒，他罵別人，不是罵你。你娘的此物上，卻不多幾根，隨他罵去罷。",
+      "translation": "A bearded man was walking when a child teased him, saying, \"The beard walks into the wind; only the beard is seen, not the mouth.\" The bearded man was very angry. He pulled up his beard to reveal his mouth and pointed while cursing, saying, \"If this is not a mouth, then isn't it your mother's vagina!\" The child was scolded and returned home to cry and tell his mother. The mother comforted him, saying, \"My son, he was cursing someone else, not you. There are only a few on your mother's face; let him curse away.\"",
+      "number": 19
+    },
+    {
+      "title_zh": "鬍子答嘲",
+      "title_en": "Hu Zi Da Chao",
+      "text": "顏回、子路與伯魚三人私議曰：「夫子惟鬍，故開口不脫『乎』字。」顏子曰：「他對我說：『回也，其庶乎。』」子路曰：「他對我說：『由也，誨汝知之乎？」伯魚曰：「我家尊對我也說：『汝為《周南》、《召南》矣乎？』」孔子在屏後聞之，出責伯魚曰：「回是個短命的，由是個不得其死的，說我鬍也罷了。你是我的兒子，也來嘲我！」",
+      "translation": "Yan Hui, Zilu, and Boyu privately discussed, saying, \"Master Kong only has a beard; that is why he never stops using the word 'hu' when speaking.\" Yanzi said, \"He told me, 'Hui, you are almost there, hu.'\" Zilu said, \"He told me, 'You, I will teach you to know it, hu?'\" Boyu said, \"My father also told me, 'Have you become the Zhou Nan and Zhao Nan, hu?'\" Confucius was behind the screen and overheard them. He came out and scolded Boyu, saying, \"Hui is a short-lived man; You is one who will not die properly. Just say I have a beard, that's enough. You are my son and yet you also mock me!\"",
+      "number": 20
+    },
+    {
+      "title_zh": "光屁股",
+      "title_en": "Guang Pugu",
+      "text": "有上司面鬍者，與光臉屬吏同飯。上臺鬚間偶帶米糝，門子跪下稟曰：「老爺龍鬚上一顆明珠。」官乃拂去。屬吏回衙，責備門子：「你看上臺門子何等伶俐！汝輩愚蠢，不堪重用。」一日，兩官又聚會吃麵，屬吏方舉箸動口，有未縮進之麵掛在唇角。門子急跪下曰：「小的稟事。」問稟何事，答曰：「爺好張光淨屁股，多了一條蛔蟲掛在外面。」",
+      "translation": "There was a superior official with a bearded face who dined together with an underling with a smooth, clean-shaven face. By chance, some rice grains stuck to the superior's beard. A servant knelt down and reported, \"A pearl of rice grain on Master's dragon beard.\" The official brushed it away. After returning to the office, the underling scolded the servant, \"Look how clever the superior's gatekeeper is! You people are foolish and not fit for important tasks.\" One day, the two officials gathered again to eat noodles. As the underling was just lifting his chopsticks to take a bite, some noodles stuck out from the corner of his lips and did not get fully tucked in. The servant quickly knelt down and said, \"I have something to report.\" When asked what he wanted to report, the servant replied, \"Master has a smooth and clean bottom; there is an extra roundworm hanging outside.\"",
+      "number": 21
+    },
+    {
+      "title_zh": "親爺",
+      "title_en": "Qin Ye",
+      "text": "有妻甫受孕而夫出外經商者，一去十載，子已年長，不曾識面。及父歸家，突入妻房，其子驟見，乃大喊曰：「一個面生鬍子，大膽闖入母親房裡來了！」其母曰：「我兒勿做聲，這鬍子正是你的親爺。」",
+      "translation": "A wife, shortly after becoming pregnant, had her husband leave for business. He was away for ten years; their son grew up and never met his father's face. When the father returned home, he suddenly entered his wife's room. The son saw him and shouted loudly, \"A stranger with a beard has dared to barge into Mother's room!\" His mother said, \"My son, don't shout. This bearded man is your real father.\"",
+      "number": 22
+    },
+    {
+      "title_zh": "無鬚狗",
+      "title_en": "Wuxu Gou",
+      "text": "一稅官瞽目者，恐人騙他，凡貨船過關，必要逐一摸驗，方得放心。一日，有販羊者至，規例羊有稅，狗無稅，盡將羊角鋸去，充狗過關。官用手摸著項下鬍鬚，乃大怒曰：「這些奴才，明來騙我。明明是一船羊，狗是何曾出鬚的！」",
+      "translation": "A tax official who was blind for fear of being deceived insisted on personally touching and inspecting each cargo ship passing through the customs before he could feel at ease. One day, a sheep trader arrived. According to the rules, sheep were taxed but dogs were not; he had therefore sawed off all the horns of his sheep and passed them as dogs through customs. The official touched the beard under the neck with his hands and angrily said, \"These rascals are clearly trying to deceive me. A ship full of sheep—when have dogs ever had beards!\"",
+      "number": 23
+    },
+    {
+      "title_zh": "沒鬚屁股",
+      "title_en": "Mei Xu Pigu",
+      "text": "一公領孫溪中洗澡，孫拿得一蝦，或前跳，或卻走。孫問公曰：「前趕後退，後趕前行，不知何處是頭，何處是尾？」公答曰：「有鬚的是頭，沒鬚的是屁股。」",
+      "translation": "An old man took his grandson to Sunxi River for a bath. The grandson caught a shrimp, which either jumped forward or backward. The grandson asked his grandfather, \"When it runs forward and retreats, when it retreats and moves forward, I don't know which end is the head and which is the tail?\" The old man answered, \"The one with a beard is the head; the one without a beard is the butt.\"",
+      "number": 24
+    },
+    {
+      "title_zh": "拔鬚去黑",
+      "title_en": "Ba Xu Qu Hei",
+      "text": "一翁鬚白，令姬妾拔之。妾見白者甚多，拔之將不勝其拔，乃將黑者盡去。拔訖，翁引鏡自照，遂大駭，因咎其妾。妾曰：「難道少的倒不拔，倒去拔多的？」",
+      "translation": "łoży A man with white beard ordered his concubines to pluck it out. The concubine saw many strands were already white, and knowing that pulling them all would be too much work, she removed all the black hairs instead. After plucking was done, the old man held up a mirror to look at himself and was greatly startled. He then blamed his concubine. The concubine said, \"Is it not logical that we didn't pluck the few and instead plucked the many?\"",
+      "number": 25
+    },
+    {
+      "title_zh": "白鬚",
+      "title_en": "Bai Xu",
+      "text": "老妓年近六旬，尚倚門接客。一人打釘，見其陰毛斑白，謂曰：「該用烏鬚藥了。」妓問：「染藥宜在何時？」答曰：「搽了過夜。」妓搖首曰：「老實對你說，沒有這一夜閒工夫，由他白去罷了。」",
+      "translation": "An old courtesan, nearing sixty years of age, still leaned on the door to receive guests. A man driving a nail saw her pubic hair was gray and said, \"You should use black beard medicine.\" The courtesan asked, \"When is the best time to apply the dye?\" He replied, \"Apply it and let it stay overnight.\" The courtesan shook her head and said, \"To be honest with you, I don't have the spare time for an entire night. Let it go white.\"",
+      "number": 26
+    },
+    {
+      "title_zh": "黃鬚",
+      "title_en": "Huang Xu",
+      "text": "一人鬚黃，每於妻前自誇：「黃鬚無弱漢，一生不受人欺。」一日出外，被毆而歸，妻引前言笑之。答曰：「那曉得那人的鬚，竟是通紅的。」",
+      "translation": "A man had yellow beard and often boasted in front of his wife, \"Men with yellow beards are not weak; they never suffer humiliation from others.\" One day he went out and was beaten up before returning home. His wife laughed at him, recalling his previous words. He replied, \"How could I know the man's beard was completely red?\"",
+      "number": 27
+    },
+    {
+      "title_zh": "老面皮",
+      "title_en": "Lao Mianpi",
+      "text": "或問：「世間何物最硬？」曰：「石頭與鋼鐵。」其人曰：「石可碎，鐵可鏨，安得為硬？以弟看來，惟兄面上髭鬚最硬，鐵石總不如也。」問其故，答曰：「看老兄這副厚臉皮，竟被他鑽門了出來。」那有鬚者回嘲曰：「足下面皮更老，這等硬鬚還鑽不透！」",
+      "translation": "Someone asked, \"What is the hardest thing in this world?\" The reply was, \"Stones and steel.\" That person said, \"Stone can be broken; iron can be chiseled. How can they be considered hard? In my opinion, only the beard on your face is truly hard; iron and stone cannot compare.\" When asked why, he replied, \"Look at your brother's thick face skin—it was even drilled through by him to come out.\" The bearded man retorted, \"Your face skin is even older; such hard beard couldn't drill through it!\"",
+      "number": 28
+    },
+    {
+      "title_zh": "胖子行房",
+      "title_en": "Pazi Xingfang",
+      "text": "夫婦兩人身軀肥胖，每行房，輒被肚皮礙事，不能暢意。一娃子云：「我倒傳你個法兒，須從屁股後面弄進去甚好。」夫婦依他，果然快極。次日，見娃子問曰：「你昨教我的法兒，是那裡學來的？」答曰：「我不是學別人的，常見公狗、母狗是那般幹。」",
+      "translation": "A couple, both with fat and heavy bodies, often found their large bellies obstructive during intimacy, making it difficult to enjoy themselves. A child said, \"I can teach you a trick: You must enter from behind the butt; it will be much better.\" The couple followed his advice and indeed found it very pleasurable. The next day, they saw the child and asked, \"Where did you learn that method we used yesterday?\" He replied, \"I didn't learn it from anyone else. I often see male and female dogs doing it that way.\"",
+      "number": 29
+    },
+    {
+      "title_zh": "皂隸幹法",
+      "title_en": "Zaoli Ganfa",
+      "text": "一官夫婦體肥，每次行房，兩下肚皮礙住，從無暢舉時節。一日，官正坐堂，見一皂隸偉胖異常，料其交感必有良法。審事畢，喚至後堂詢曰：「汝腹甚大，行房時用何法，而能使兩物湊合，不為肚腹所礙乎？」隸曰：「小的每到交合之際，命妻子斜坐一大椅上，將兩足架開，自己站起行事，彼此緊湊，便無阻隔之患。」官點首命出。至夜，果依法而行。奶奶不覺樂極，問：「是誰傳授的？」官曰：「皂隸。」奶奶一面將臀聳湊身作顛簸之狀，曰：「好皂隸，真爽利！來日賞他兩擔老白米。」",
+      "translation": "A government official and his wife were both overweight. Every time they had intimacy, their large bellies blocked them, so there was never a satisfying moment. One day, while the official sat in court, he saw an abnormally large and fat clerk and assumed that this man must have a good method for intimacy. After finishing the court session, he summoned him to the back hall and asked, \"Your belly is so large. What method do you use during intimacy that allows both of you to come together without being hindered by your bellies?\" The clerk said, \"When I am about to have intimacy, I ask my wife to sit sideways on a large chair with her legs spread apart. I stand up and proceed. We are close together this way, so there is no problem of obstruction.\" The official nodded and ordered him out. That night, he indeed followed the method as instructed. The wife was delighted and asked, \"Who taught you this?\" The official said, \"The clerk.\" While saying this, the wife raised her buttocks and moved her body in a rocking motion, exclaiming, \"What a good clerk! So efficient!\" \"Tomorrow I will reward him with two sacks of old white rice.\"",
+      "number": 30
+    },
+    {
+      "title_zh": "截長",
+      "title_en": "Jie Chang",
+      "text": "夫問妻曰：「此物還是長的好，短的好？」妻實喜長，而故應之曰：「短的好。」夫曰：「這等我的太長，不如截去一段。」持刀便砍。妻發急，止之曰：「雖則長了些，卻是父母生就的遺體，一毫也動不得。」",
+      "translation": "The husband asked his wife, \"Which is better for this thing—long or short?\" Although the wife actually preferred long ones, she deliberately replied, \"Short ones are better.\" The husband said, \"In that case, mine is too long. I should cut off a section.\" He took out the knife and began to chop. The wife became very anxious and stopped him, saying, \"Although it is a bit long, it is part of the body given by our parents. Not even a hair can be touched.\"",
+      "number": 31
+    },
+    {
+      "title_zh": "長卵嘆氣",
+      "title_en": "Chang Luan Tan Qi",
+      "text": "一官到任，出票要喚兄弟三人，一胖子、一長子、一矮子備用，異姓者不許進見。一家有兄弟四人，僅有一胖三矮，私相計議曰：「四人之中，胖矮俱有，單少一長人，只得將二矮縫一長褲，兩人接起充作長人，便覺全備。」如計行之。官見大喜，簪花勞酒。三人一時榮寵，下矮壓得受苦，在內光嘵嘵，大有怨詞。官聽見，問：「下面甚響？」眾慌稟曰：「這是長卵嘆氣。」",
+      "translation": "An official newly appointed to office issued a notice summoning three brothers: one fat, one tall, and one short. Those of different surnames were not allowed to meet him. A family had four brothers, but only one was fat and three were short. They secretly discussed among themselves, saying, \"Among the four of us, we have a fat man and some short ones, but there is just one missing tall person. We must sew two pairs of long pants for the two shorter men to wear together so they can pretend to be a tall man. That way, everything will seem complete.\" They followed this plan. The official was very pleased and presented them with flowers, offering wine as a reward. At that moment, the three brothers enjoyed great honor and favor, but the shorter one inside was suffering from being bent over. He groaned in pain and expressed much resentment. The official heard it and asked, \"What is that noise below?\" lando The crowd hurriedly reported, \"This is Chang Luan sighing.\"",
+      "number": 32
+    },
+    {
+      "title_zh": "矮子看燈",
+      "title_en": "Aizi Kandeng",
+      "text": "矮子看燈，適一人小便，竟往腿下鑽過。觀見厥物，贊曰：「好盞繡球燈，為何不點燭？」其人溺完，將尿滴在矮子頭上，以手摸曰：「不好，快回去，大點雨打下來了！」",
+      "translation": "While the short man was watching lanterns, a passerby happened to urinate, and he actually crawled under the person's legs. The onlooker saw it and praised, saying, \"What a fine embroidered ball lantern! Why isn't there any candle inside?\" After finishing urinating, the man dripped urine on the short man's head and patted it with his hand, saying, \"It doesn't feel good. Go back quickly—it is about to rain heavily!\"",
+      "number": 33
+    },
+    {
+      "title_zh": "親嘴",
+      "title_en": "Qin Zui",
+      "text": "一矮子新婚，上床即親嘴，百餘不止。婦問何故，答曰：「我下去了，還有半日才上來哩。」",
+      "translation": "A short man had just married. As soon as he got into bed, he began kissing his wife over and over, more than a hundred times without stopping. The wife asked why this was happening, and he replied, \"I have gone down already; it will be half a day before I come back up.\"",
+      "number": 34
+    },
+    {
+      "title_zh": "扇墜",
+      "title_en": "Shan Zui",
+      "text": "有持大扇者，遇矮子，戲以扇置其頭曰：「欲借兄權作扇墜耳。」矮子大怒，罵曰：「肏娘賊！若拿我做扇墜，我就兜心一腳踢殺你！」",
+      "translation": "A man with a large fan met a short person and playfully placed the fan on his head, saying, \"I just want to borrow your head as a fan pendant.\" The short man became very angry and cursed, saying, \"You bastard!\" \"If you use me as a fan pendant, I will kick you right in the chest with one foot and kill you!\"",
+      "number": 35
+    },
+    {
+      "title_zh": "擱淺",
+      "title_en": "Ge Qian",
+      "text": "矮人乘舟出遊，因擱淺，自起撐之，失手墜水，水沒過項。矮人起而怒曰：「偏我擱淺擱在深處。」",
+      "translation": "A short man took a boat out for a trip, but it ran aground. He got up to push the boat himself and accidentally fell into the water, where the water covered his neck. The short man stood up in anger and said, \"Why did I run aground precisely in a deep spot?\"",
+      "number": 36
+    },
+    {
+      "title_zh": "瞎敘盟",
+      "title_en": "Hua Xu Meng",
+      "text": "三瞎子相聚結盟，叙齒以分長幼。一人曰：「不必論年，只看那個先瞎者，便讓他做大哥。」一人曰：「我是周歲上不見起的，該輪着我居長。」其次曰：「我是百日內壞眼的，還該我來做老大。」第三者曰：「不要說起，我竟從娘胎裏就是瞎的了。」兩人曰：「那有此事？」答曰：「不然，為何從小人就罵我瞎屄裏肏出來的！」",
+      "translation": "Three blind men met and formed an alliance, deciding their seniority by age. One of them said, \"There is no need to discuss our ages; whoever went blind first should be the eldest brother.\" Another one said, \"I was born blind. I should naturally be the oldest among us.\" The next one said, \"My eyes went bad within a hundred days after birth; I still should be considered the eldest among us.\" The third one said, \"Don't even mention it—I was blind since before I was born!\" The other two said, \"How could such a thing be possible?\" He replied, \"Otherwise, why have people always called me since childhood 'a bastard born from a blind vagina'?\"",
+      "number": 37
+    },
+    {
+      "title_zh": "瞽笑",
+      "title_en": "Gu Xiao",
+      "text": "一瞽者與眾人同坐，眾人有所見而笑，瞽者亦笑。眾問之曰：「汝何所見而笑？」瞽者曰：「列位所笑，定然不差，難道是騙我的？」",
+      "translation": "A blind man was sitting with a group of people. When the others saw something and laughed, the blind man also laughed. The crowd asked him, \"What did you see that made you laugh?\" The blind man said, \"Whatever you are laughing at must be right. Could it possibly be a trick on me?\"",
+      "number": 38
+    },
+    {
+      "title_zh": "被打",
+      "title_en": "Bei Da",
+      "text": "二瞽者同行，曰：「世上惟瞽者最好。有眼人終日奔忙，農家更甚，怎如得我們心上清閑。」眾農夫竊聽之，乃偽為官過，謂其失於回避，以鋤把各打一頓而呵之去。隨復竊聽之，一瞽者曰：「畢竟是瞽者好，若是有眼人，打了還要問罪哩！」",
+      "translation": "Two blind men were walking together. One said, \"In this world, only the blind are best.\" Those with eyes are busy all day long; farmers are even busier. How could they compare to our peace of mind and leisure?\" Some farmers overheard this conversation. Pretending to be officials passing by, they claimed the blind men had failed to avoid them properly and beat each of them with hoes before scolding them away. Later, they eavesdropped again and heard one blind man say, \"After all, it is still better to be a blind person. If we had eyes, not only would we have been beaten but also punished!\"",
+      "number": 39
+    },
+    {
+      "title_zh": "吃螺螄",
+      "title_en": "Chi Luolu",
+      "text": "有盲子暑月食螺螄，失手墮一螺肉在地。低頭尋摸，誤撿雞屎放在口裡，向人曰：「好熱天氣，東西才落下地，怎就這等臭得快！」",
+      "translation": "A blind man ate snails during the hot summer months, and accidentally dropped a piece of snail meat on the ground. He bent down to feel around for it, mistakenly picked up a piece of chicken droppings and put it in his mouth. He then said to others, \"What hot weather! The food had just fallen on the ground—how could it stink so quickly!\"",
+      "number": 40
+    },
+    {
+      "title_zh": "響不遠",
+      "title_en": "Xiang Buyuan",
+      "text": "盲子夫婦同睡，妻暗約一人與之交合。夫問曰：「何處作歡響？」妻云：「想是間壁，不要管他。」少頃，又響，瞽者曰：「蹊蹺，此響光景不遠。」",
+      "translation": "A blind man and his wife were sleeping together when the wife secretly arranged for another person to have sexual relations with her. The husband asked, \"Where is that sound of merrymaking coming from?\" The wife said, \"It must be the neighbor next door. Don't mind it.\" After a while, there was another sound, and the blind man said, \"Something is wrong. This sound seems to be coming from nearby.\"",
+      "number": 41
+    },
+    {
+      "title_zh": "獨眼",
+      "title_en": "Duyan",
+      "text": "兄弟二人，同往河中洗浴。兄之陽物被水蛇咬住，扯之不脫，弟持刀欲砍。兄曰：「仔細看了下刀。兩眼的是蛇頭，獨眼的是屪子。」",
+      "translation": "Two brothers went together to bathe in a river. The elder brother's penis was bitten by a water snake and could not be pulled free, so the younger brother took out a knife to cut it off. The elder brother said, \"Be careful where you place your blade.\" \"The one with two eyes is the snake's head; the one with only one eye is my penis.\"",
+      "number": 42
+    },
+    {
+      "title_zh": "兄弟認匾",
+      "title_en": "Gege Ren Bian",
+      "text": "兄弟三人皆近視，同拜一客。堂上懸「遺清堂」一匾，伯曰：「主人原來患此病，不然，何以取『遺精室』也。」仔細看良久，曰：「非也。想主人好道，故名『道情堂』耳。」二人爭論不已，以季弟目力更好，使辨之。乃張目眈視半晌，曰：「汝兩人皆妄，上面安得有匾！」",
+      "translation": "Three brothers, all nearsighted, paid a visit to the same guest. A plaque reading \"Yiqing Tang\" was hung in the hall. The eldest brother said, \"The host must suffer from this illness; otherwise, why would he name it 'Yijing Shi'?\" After looking carefully for a long time, he said, \"No.\" \"I think the host must be fond of Daoism; that is why it was named 'Daoqing Tang'.\" The two brothers continued to argue, and since they believed the youngest brother had better eyesight, they asked him to identify it. The younger brother opened his eyes wide and stared at it for a while before saying, \"You two are both wrong! How could there possibly be a plaque up there!\"",
+      "number": 43
+    },
+    {
+      "title_zh": "金漆盒",
+      "title_en": "Jin Qi He",
+      "text": "一近視出門，見街頭牛屎一大堆，認為路人遺下的盒子。隨用雙手去捧，見其爛濕，乃嘆曰：「好個盒子，只可惜漆水未乾。」",
+      "translation": "A nearsighted man went out and saw a big pile of cow dung on the street. Thinking it was a box left by passersby, he approached it. He then used both hands to pick it up and found that it was rotten and wet. He sighed, saying, \"What a fine box! It is just too bad the lacquer hasn't dried yet.\"",
+      "number": 44
+    },
+    {
+      "title_zh": "問路",
+      "title_en": "Wen Lu",
+      "text": "一近視迷路，見道傍石上棲歇一鴉，疑是人也，遂再三詰之。少頃，鴉飛去，其人曰：「我問你不答應，你的帽子被風吹去了，我也不對你說！」",
+      "translation": "A nearsighted man got lost and saw a crow resting on a stone by the roadside. Mistaking it for a person, he questioned it repeatedly. After a while, the crow flew away, and the man said, \"I asked you but you didn't respond. Your hat must have been blown off by the wind. I won't say anything to you either!\"",
+      "number": 45
+    },
+    {
+      "title_zh": "噀面",
+      "title_en": "Xun Mian",
+      "text": "一鄉人攜鵝入市，近視見之，以為賣布者，連呼「買布」。鄉人不應，急上前拗住鵝尾，逼而視之。鵝忽撒屎，適噴其面。近視怒曰：「不賣就罷，值得這等發急，就噀（噴）起人來！」",
+      "translation": "loth A villager took a goose to the market. A nearsighted person saw it and thought he was selling cloth, so he called out repeatedly, \"Buy cloth!\" The villager did not respond. In a hurry, the nearsighted man rushed forward and grabbed the goose's tail to take a closer look. Suddenly, the goose defecated and sprayed it right on his face. The nearsighted man angrily said, \"If you don't want to sell it, just say so. Why get so worked up and spray someone in the face!\"",
+      "number": 46
+    },
+    {
+      "title_zh": "烏雲接日",
+      "title_en": "Wuyun Jie Ri",
+      "text": "近視者赴宴，對席一鬍子吃火朱柿，即起別主人曰：「路遠告辭。」主曰：「天色甚早。」答云：「恐天下雨，那邊烏雲接日頭哩。」",
+      "translation": "A nearsighted man attended a banquet. Seeing an old man with a beard eating fire-red persimmons across the table, he immediately stood up and said to the host, \"I must take my leave now since I have a long journey ahead.\" The host said, \"It is still very early in the day.\" He replied, \"I am afraid it will rain. There are dark clouds covering the sun over there.\"",
+      "number": 47
+    },
+    {
+      "title_zh": "鼻影作棗",
+      "title_en": "Biying Zuozao",
+      "text": "近視者拜客，主人留坐待茶。茶果吃完，視茶內鼻影，以為橄欖也，撈摸不已。久之忿極，輒用指撮起，盡力一咬，指破血出。近視乃仔細認之，曰：「啐！我只道是橄欖，卻原來是一個紅棗。」",
+      "translation": "A nearsighted man visited a guest. The host invited him to sit and serve tea. After finishing the tea and snacks, he looked into his teacup and saw the shadow of his nose. Mistaking it for an olive, he kept fishing around in the cup. After a long time of frustration, he finally used his fingers to pick it up and bit down hard, causing his finger to break open with blood flowing. The nearsighted man then looked at it carefully and said, \"Spit!\" \"I thought it was an olive. It turns out to be just a red date.\"",
+      "number": 48
+    },
+    {
+      "title_zh": "蝦醬",
+      "title_en": "Xiajiang",
+      "text": "一鄉人挑糞經過，近視喚曰：「拿蝦醬來。」鄉人不知，急挑而走。近視趕上，將手握糞一把，於鼻上聞之，乃罵道：「臭已臭了，什麼奇貨，還要這等行情！」",
+      "translation": "A villager was passing by with a load of manure when the nearsighted person called out, \"Bring me some shrimp paste.\" The villager did not understand and hurriedly left with his load. The nearsighted man caught up, grabbed a handful of the dung, and sniffed it at his nose before cursing, \"It's already rotten! What kind of rare goods is this? Why must it be so expensive!\"",
+      "number": 49
+    },
+    {
+      "title_zh": "疑蛋",
+      "title_en": "Yi Dan",
+      "text": "一近視見●魚，疑為鴨蛋，握之而腹癟。訝曰：「如何小鴨出得恁快，蛋殼竟癟下去了。」",
+      "translation": "A nearsighted man saw a fish and suspected it was a duck egg. When he grabbed it, his stomach deflated. He was surprised and said, \"How could a little duck hatch so quickly? The eggshell has already gone flat.\"",
+      "number": 50
+    },
+    {
+      "title_zh": "拾螞蟻",
+      "title_en": "Shi Ma yi",
+      "text": "近視者行路，見螞蟻擺陣，疏密成行，疑是一物，因掬而取之。撮之不起，乃嘆息曰：「可惜一條好線，毀爛得蹙蹙斷了。」",
+      "translation": "A nearsighted person was walking when he saw ants forming an array, arranged in neat and dense lines. Mistaking them for something else, he scooped them up. When he tried to pick it up but failed, he sighed and said, \"What a pity! A fine thread has been ruined and broken into pieces.\"",
+      "number": 51
+    },
+    {
+      "title_zh": "檢銀包",
+      "title_en": "Jian Yinbao",
+      "text": "有近視新歲出門，拾一爆竹，錯認他人遺失銀包也，且喜新年發財，遂密藏袖內。至夜，乃就燈啟視，藥線誤被火燃，立時作響。方在吃驚，傍一聾子撫其背曰：「可惜一個花棒槌，無緣無故，如何就是這樣散了。」",
+      "translation": "A nearsighted man was going out on the first day of the new year when he picked up a firecracker. Mistaking it for someone else's lost silver pouch, and happy about the prospect of good fortune in the New Year, he secretly tucked it into his sleeve. That night, by lamplight, he opened and examined it. The fuse was accidentally ignited by the flame, and immediately it went off with a loud noise. While he was still startled, a deaf man beside him patted his back and said, \"What a pity for such a pretty mallet. For no reason at all, how could it just break like this?\"",
+      "number": 52
+    },
+    {
+      "title_zh": "近趣眼",
+      "title_en": "Jin Qu Yan",
+      "text": "妻指牝戶謂夫曰：「此物你最愛的，何不取一美號贈他？」夫曰：「愛其有趣，就名為趣眼。」婦又指後庭曰：「你有時也用著他，也該取一美號。」夫曰：「他與趣眼相近，就叫他做近趣（覷）眼罷了。」",
+      "translation": "The wife pointed to her vulva and said to her husband, \"This thing is your favorite. Why don't you give it a nice name?\" The husband replied, \"I love its fun aspect, so I'll name it Qu Yan.\" The wife then pointed to her anus and said, \"You sometimes use this as well. You should give it a nice name too.\" The husband said, \"It is close to Qu Yan. Let's just call it Jinqu (Qu) Yan.\"",
+      "number": 53
+    },
+    {
+      "title_zh": "白果眼",
+      "title_en": "Bai Guo Yan",
+      "text": "一女年幼而許嫁一大漢者，姻期將近。母慮其初婚之夜不能承受：「莫若先將雞子稍用油潤，與你先期開破，省得臨時吃苦。」女含之。不意油滑突入牝中，不能得出，遂夾蛋過門。夫據腹良久，牝口阻塞難進，乃大叫曰：「媒人誤我，娶一石女矣！」母不信，向媳曰：「姑媳無礙，把我看看何如？」及看畢，乃罵其子曰：「畜生，虧你枉做半世人，一隻白果眼也不認得！」",
+      "translation": "A young girl was betrothed to a tall and strong man, and the wedding date was approaching. The mother worried that on her wedding night, the girl would not be able to endure it. \"Perhaps we should first slightly oil an egg and have you break it in advance,\" she said, \"so as to avoid suffering at the time.\" The girl kept it in mind. Unintentionally, the oiled egg suddenly slipped into her vagina and could not be removed, so she crossed the threshold with it still inside. The husband pressed his abdomen for a long time, but the entrance of her vagina was blocked and difficult to penetrate. He then shouted loudly, \"The matchmaker has deceived me! I have married an infertile woman!\" The mother did not believe it and said to her daughter-in-law, \"Mother and daughter-in-law are close; let me take a look myself.\" After examining, she scolded her son and said, \"You beast! You've wasted half a life without even recognizing a Bai Guo Yan!\"",
+      "number": 54
+    },
+    {
+      "title_zh": "漂白眼",
+      "title_en": "Piao Bai Yan",
+      "text": "一漂白眼與赤鼻頭相遇，謂赤鼻者曰：「足下想開染坊，大費本錢，鼻頭都染得通紅。」赤鼻答曰：「不敢也，只淺色而已。怎如得尊目，漂白得有趣。」",
+      "translation": "A man with bleached eyes met a man with a red nose and said to the latter, \"I imagine you must be running a dyeing workshop. It's costing you a lot of money; your nose has turned completely red.\" The man with the red nose replied, \"Not at all. I've only applied a light color.\" \"How could it compare to your eyes, which are bleached in such an interesting way?\"",
+      "number": 55
+    },
+    {
+      "title_zh": "聾耳",
+      "title_en": "Long Er",
+      "text": "一醫者耳聾，至一家看病女人。問：「蓮心吃得否？」醫者曰：「面觔發病，是吃不得的。」病女曰：「是蓮肉。」醫者曰：「就是鹽肉，也要少吃些。」病女曰：「先生耳朵是聾的。」醫曰：「若是裏股是紅的，只怕要生橫痃，倒要脫開來，待我看看好用藥。」",
+      "translation": "A doctor was deaf and went to a house to treat an ill woman. He asked, \"Have you eaten lotus seeds?\" The doctor said, \"If your illness is caused by noodles and meat, then you must not eat them.\" The ill woman replied, \"It's lotus flesh.\" The doctor said, \"Even if it is salted meat, you should eat less of it.\" The ill woman said, \"Doctor, your ears are deaf.\" The doctor said, \"If the inside of your thigh is red, it might be a sign of buboes. You'll have to take off your clothes so I can examine and prescribe medicine properly.\"",
+      "number": 56
+    },
+    {
+      "title_zh": "呵欠",
+      "title_en": "He Qian",
+      "text": "一耳聾人探友，犬見之吠聲不絕，其人茫然不覺。入見主人，揖畢告曰：「府上尊犬，想是昨夜不曾睡來。」主問：「何以見得？」答曰：「見了小弟，只是打呵欠。」",
+      "translation": "A deaf man visited a friend. The dog barked continuously at him, but the man was completely unaware of it. After entering and bowing to his host, he said, \"Your dog must not have slept last night.\" The host asked, \"How do you know that?\" He replied, \"When it saw me, it kept yawning.\"",
+      "number": 57
+    },
+    {
+      "title_zh": "火症",
+      "title_en": "Huo Zheng",
+      "text": "一聾子望客，雨中見狗吠不止，乃嘆曰：「此犬犯了火症，枯渴得緊，只管開口接水吃哩。」",
+      "translation": "A deaf man watched a guest. In the rain, he saw a dog barking nonstop and sighed, saying, \"This dog has caught fire illness; it is very thirsty and keeps opening its mouth to drink water.\"",
+      "number": 58
+    },
+    {
+      "title_zh": "諱聾啞",
+      "title_en": "Hui Long Ya",
+      "text": "聾啞二人，各欲自諱。一日，聾見啞者，懇其唱曲。啞者知其聾也，乃以嘴唇開合，而手拍板作按節狀。聾者側聽良久，見其唇住，即大贊曰：「妙絕，妙絕！許久不聽佳音，今番一發更進了。」",
+      "translation": "Two deaf-mute people each wanted to conceal their condition. One day, the deaf man saw the mute and earnestly asked him to sing a song. The mute knew he was deaf, so he moved his lips as if singing and clapped the rhythm with his hands. The deaf man listened attentively for a long time. When he saw that the mute had stopped moving his lips, he greatly praised, \"Wonderful! Simply wonderful!\" \"I haven't heard such a good performance for a long time; this one is even better than before.\"",
+      "number": 59
+    },
+    {
+      "title_zh": "麻屄",
+      "title_en": "Ma Pi",
+      "text": "一客與妓密甚，臨別謂妓曰：「恩愛情深，願得一表記，睹物如見卿面矣。」妓贈以香囊、汗巾，俱不要。問曰：「所愛何物？」答曰：「欲得卿陰上之肉一塊耳。」妓曰：「可。然須問過母親來。」鴇兒曰：「放屁！一個孤老割一塊，千百個孤老割了千百塊，養成一張麻屄，那個還來要你！」",
+      "translation": "A guest was very intimate with a courtesan. When parting, he said to her, \"Our love is deep; I wish for something as a token so that seeing it will be like seeing your face.\" The courtesan gave him a sachet and a handkerchief, but he refused both. He asked, \"What do you love most?\" The courtesan replied, \"I just want a piece of the flesh from your private part.\" The courtesan said, \"Okay.\" \"But I must first ask my mother's permission.\" The madam said, \"Nonsense!\" \"One old bachelor cuts off a piece, and hundreds of old bachelors cut off hundreds of pieces. They've grown into one big scarred vulva; who would still want you?\"",
+      "number": 60
+    },
+    {
+      "title_zh": "屁股麻",
+      "title_en": "Pu Chi Ma",
+      "text": "俗云：「腳麻以草柴貼眉心，即止。」一人遍貼額上。人問：「為何？」答曰：「我屁股通麻了。」",
+      "translation": "A folk saying goes, \"If your legs are numb, place some firewood on your forehead and it will stop immediately.\" One man pasted a large amount all over his forehead. Someone asked, \"Why?\" He replied, \"My butt is completely numb.\"",
+      "number": 61
+    },
+    {
+      "title_zh": "麻卵袋",
+      "title_en": "Ma Luan Dai",
+      "text": "文宗歲試唱名，吏善讀別字，第一名郁進徒，錯喚曰「都退後」，諸生聞之，皆山崩往後而退。次名潘傳采，又錯喚「番轉來」，諸生又跑上前。宗師大怒，逐之。第三名林卯伐，上前謝曰：「多謝大宗師，若不斥逐此人，則生員必喚做麻卵袋了。」",
+      "translation": "During the annual examination of Emperor Wenzong, an official was good at reading and distinguishing characters. The first-place candidate was named Yu Jintu, but he mistakenly called out \"Dou Tuihou.\" Upon hearing this, all the examinees retreated backward as if a mountain had collapsed. The next candidate was Pan Chucai, but he was mistakenly called \"Fan Zhuanlai.\" Upon hearing this, the examinees rushed forward again. The examiner became very angry and drove them away. The third-place candidate, Lin Mao fa, stepped forward and said in thanks, \"Thank you very much, esteemed examiner. If you had not driven this person away, the students would surely have been called Ma Luandai.\"",
+      "number": 62
+    },
+    {
+      "title_zh": "麻子咬卵",
+      "title_en": "Ma Zi Yao Luan",
+      "text": "糶芝麻者，見一秀才經過，問：「相公要買麻子否？」士答曰：「我讀書人，要麻子來咬卵！」",
+      "translation": "lxml A man selling sesame seeds saw a scholar passing by and asked, \"Gentleman, would you like to buy some sesame seeds?\" The scholar replied, \"I am a man of letters; I need sesame seeds to bite my testicles!\"",
+      "number": 63
+    },
+    {
+      "title_zh": "赤鼻",
+      "title_en": "Chi Bi",
+      "text": "一官經過，有赤鼻者在傍，皂隸喝曰：「老爺專要拿吃酒的，還不快走！」其人無處躲閃，只得將鼻子塞進人家板縫中。官已過，裡面人看見罵曰：「這人不達時務，外面多少毛廁，如何倒向人家屋裡來撒尿！」",
+      "translation": "An official passed by, and a man with a red nose was nearby. A clerk shouted, \"The master is specifically after those who have been drinking; don't just stand there—run quickly!\" Having nowhere to hide, the man had no choice but to stuff his nose into a crack in someone else's wooden board. After the official had passed, a person inside saw this and scolded, \"This man is out of touch with reality. There are so many public urinals outside; why did he come to urinate in someone else's house?\"",
+      "number": 64
+    },
+    {
+      "title_zh": "齆鼻狗",
+      "title_en": "Chou Bi Gou",
+      "text": "黃鼠狼遇狗追逐，即撒屁以觸其鼻。有雄鼠覓食田間，被一犬逐之，鼠狼連放數屁，逐之愈甚。乃竭力跑脫，至穴訴之雌鼠。雌鼠曰：「汝防身屁何在？」曰：「連撒數屁，全然不理。」雌鼠曰：「我知道了，決然是個齆鼻狗。」",
+      "translation": "A weasel, when chased by a dog, immediately let out a fart to irritate the dog's nose. A male rat was foraging in the field when it was chased by a dog. The rat let out several farts, but this only made the dog chase more fiercely. The rat then ran as hard as he could to escape and returned to his burrow to complain to the female rat. The female rat asked, \"Where is your defensive fart?\" He replied, \"I let out several farts in a row, but it didn't pay the slightest attention.\" The female rat said, \"I see. It must be a dog with a stinking nose.\"",
+      "number": 65
+    },
+    {
+      "title_zh": "齆鼻請酒",
+      "title_en": "Chou Bi Qing Jiu",
+      "text": "甲乙俱齆鼻。甲設席不能治柬，畫秤、尺、笤帚各一件。乙見之，便意會曰：「秤（請）尺（吃）帚（酒）。」乙答柬，畫蜈蚣一條，斧一把。甲見之，點頭曰：「蜈（無）蚣（功）斧（夫）。」",
+      "translation": "Both A and B had smelly noses. A hosted a banquet but could not prepare the invitations, so he drew one scale, one ruler, and one broom instead. B saw this and immediately understood, saying, \"Scale (please), ruler (eat), broom (wine).\" In response, B drew a centipede and an axe. A saw this and nodded, saying, \"Centipede (no) gong (merit), axe (man).\"",
+      "number": 66
+    },
+    {
+      "title_zh": "臭嘴",
+      "title_en": "Chou Zui",
+      "text": "或行酒令，俱要就人身上，說一必不然之事。一人云：「鼻孔虧得向下，若朝上，雨落在內怎麼好？」一人云：「腳板虧得在前，若在後，被人踏住怎麼好？」一人云：「婦人陰物虧得直生，若橫生，簸箕背米簸邊嵌進怎麼好？」一人云：「屁眼虧得在臀，若在面，臭氣觸人怎麼好？」主令者曰：「此句該罰。屁眼盡有生在面上的，不信，眼前這老兄尊嘴，如何便怎般臭極！」",
+      "translation": "During a drinking game, participants had to say something that was definitely not true about someone else. One person said, \"I'm lucky my nostrils are facing downward; if they were upward, what would I do if rain fell into them?\" Another person said, \"I'm lucky my soles are in front; if they were at the back, what would I do if someone stepped on them?\" Another person said, \"Women's private parts are lucky to be straight; if they were sideways, how would it be when a winnowing basket is used to carry rice and the edge gets stuck?\" Another person said, \"I'm lucky my anus is on my buttocks; if it were on my face, how would the stench affect others?\" The host of the drinking game said, \"This remark should be punished.\" \"There are indeed people whose anuses are on their faces. If you don't believe me, look at this elder brother's mouth right in front of us—how come it smells so bad!\"",
+      "number": 67
+    },
+    {
+      "title_zh": "鼻耐性",
+      "title_en": "Bi Nai Xing",
+      "text": "人患口臭，一友問曰：「別人也罷，虧你自家鼻頭如何過了？」旁人代答曰：「做了他的鼻頭，隨你臭極，也只索耐性跟他。」",
+      "translation": "A man suffered from bad breath. A friend asked, \"It's fine for others, but how on earth does your own nose put up with it?\" Someone nearby answered for him, saying, \"If you were his nose, no matter how bad the smell is, you'd just have to be patient and follow along.\"",
+      "number": 68
+    },
+    {
+      "title_zh": "蒜治口臭",
+      "title_en": "Garlic Treats Bad Breath",
+      "text": "一口臭者問人曰：「治口臭有良方乎？」答曰：「吃大蒜極好。」問者訝其臭，曰：「大蒜雖臭，還臭得正路。」",
+      "translation": "A man with bad breath asked someone, \"Is there a good remedy for treating bad breath?\" The person replied, \"Eating garlic is excellent.\" The questioner was surprised by the smell and said, \"Although garlic stinks, at least it smells in a proper way.\"",
+      "number": 69
+    },
+    {
+      "title_zh": "臭瘌痢",
+      "title_en": "Chou La Li",
+      "text": "北地產梨甚佳。北人至南，索梨食不得，南人因進蘿蔔，曰：「此敝鄉土產之梨也。」北人曰：「此物吃下，轉氣就臭，味又帶辣，只該喚他做臭辣梨。」",
+      "translation": "The northern regions produce very good pears. A northerner came to the south and asked for pears but could not get any. The southerners then offered radishes, saying, \"This is the local pear of our humble hometown.\" The northerner said, \"After eating this thing, the gas it produces smells bad. Its taste is also spicy; it should be called 'Choula Pear' instead.\"",
+      "number": 70
+    },
+    {
+      "title_zh": "殘疾婿",
+      "title_en": "Canji Xu",
+      "text": "一家有三婿，俱帶殘疾。長是瘌痢，次淌鼻膿，又次患瘋癲。翁一日請客，三婿在坐，恐其各露本相，觀瞻不雅，囑咐俱要收斂。三人唯唯。至中席，各人忍耐不住，長婿曰：「適從山上來，撞見一鹿，生得甚怪。」眾問何狀，瘌痢頭瘡癢甚，用拳滿首擊曰：「這邊一個角，那邊一個角，滿頭生了無數角。」其次鼻涕長流，正無計揩抹，隨應聲曰：「若我見了，拽起弓來，棚的一箭。」急將右手作挽弓狀，鼻間一拂，涕盡拭去。三癩子渾身發癢難禁，忙將身背牽聳曰：「你倒膽大，還要射他！把我見了，幾乎嚇殺，幾乎嚇殺。」",
+      "translation": "A family had three sons-in-law, all of whom were disabled. The eldest had ringworm, the second had a runny nose with pus, and the youngest was afflicted with epilepsy. One day, the father-in-law hosted a banquet and had all three sons-in-law present. Afraid that they would each reveal their true appearances and make for an unseemly sight, he instructed them to be restrained. The three men nodded in agreement. By the middle of the banquet, each could no longer restrain themselves. The eldest son-in-law said, \"I just came from the mountain and ran into a deer that looked very strange.\" The guests asked what it looked like. The ringworm-afflicted man, whose head was very itchy from the sores, hit his head with his fists and said, \"One horn on this side, one on that side—countless horns all over the head.\" The second son-in-law had a long stream of mucus running from his nose and, unable to think of any way to wipe it away, responded immediately, saying, \"If I saw it, I would draw my bow and shoot an arrow with a twang.\" He quickly raised his right hand as if drawing a bow and wiped his nose, removing all the mucus. The third son-in-law, unable to resist the intense itching all over his body, suddenly pulled up his back and said, \"You're so bold as to shoot it!\" \"If I had seen it, I would have been nearly scared to death, nearly scared to death.\"",
+      "number": 71
+    },
+    {
+      "title_zh": "歪屄",
+      "title_en": "Wai Pi",
+      "text": "一婢女乃壬午生，而與陳五之人私通者。一日算命，說知生辰。星家排定四柱，開言曰：「娘子是壬午養的。」此女認作說他是陳五養活的，遂曰：「你只算命，莫管閑事。」星家復言：「我是有名鐵嘴，莫怪我講。你這壬午命犯桃花，一生孤苦，身充賤役，性情憊賴，後運還要落薄。」婢益疑訐其陰私，遂怒罵曰：「瞎賊，不要你算了！」星士亦怒曰：「這個歪屄，恁般可惡！」女曰：「我相與一陳五，就被他認破。今他說我歪屄，莫非此物原有些異樣？」乃蹺起一足於凳上，解褲視之，不料果然帶偏。因嘆服曰：「真神仙也！不然，為何一張歪屄，也被他看出？」",
+      "translation": "A female servant was born in the year Renwu, yet she had an affair with a man named Chen Wu. One day when her horoscope was being read, they mentioned her birth date. The fortune teller arranged the four pillars of destiny and said bluntly, \"Madam was born in the year of Renwu.\" The girl took this to mean that she had been raised by Chen Wu and said, \"You just read the horoscope; don't meddle in other people's business.\" The fortune teller replied, \"I am a well-known sharp-tongued expert. Don't blame me for speaking up.\" \"Your Renwu birth chart is afflicted by Peach Blossom, which brings lifelong loneliness and hardship. You are engaged in menial service, have a lazy personality, and your later fortune will be even more wretched.\" The servant girl became increasingly suspicious that the fortune teller was exposing her private affairs and angrily scolded him, saying, \"Blind thief, I don't need you to read my fate!\" The fortune teller also became angry and said, \"This wench is so annoying!\" The girl said, \"I had an affair with one Chen Wu, and he figured it out.\" \"Now that he called me a wench, perhaps this thing was originally somewhat abnormal?\" She then lifted one foot onto the stool, took off her pants to look at it, and unexpectedly found that it was indeed slightly misaligned. She sighed in admiration and said, \"Truly a divine being!\" \"If not for that, how could he have noticed even the fact that my private part was crooked?\"",
+      "number": 72
+    },
+    {
+      "title_zh": "鴿舌",
+      "title_en": "Ge She",
+      "text": "有澀舌者，俗云鴿口是也。來到市中買桐油，向店主曰：「我要買桐桐桐……」：「油」字再說不出口。店主取笑曰：「你這人倒會打銅鼓的，何不再敲通銅鑼與我聽？」鴿者怒曰：「你不要當當當面來騰騰騰倒刮刮刮削我。」",
+      "translation": "There are those with dry tongues, commonly referred to as \"ge kou.\" One such person went into the market to buy tung oil and said to the shopkeeper, \"I want to buy Tung Tung Tung...\"—unable to get out the word \"you\" for oil. The shopkeeper mocked him, saying, \"You are quite good at beating the copper drum. Why not also ring a copper gong for me?\" The man with the dry tongue angrily said, \"You don't have to come here and beat me up in front of everyone.\"",
+      "number": 73
+    },
+    {
+      "title_zh": "過橋嚏",
+      "title_en": "Guo Qiao Chi",
+      "text": "一鄉人自城中歸，謂其妻曰：「我在城裡打了無數噴嚏。」妻曰：「皆我在家想你之故。」他日挑糞過危橋，復連打數嚏，幾乎失足。乃罵曰：「騷花娘，就是思量我，也須看甚麼所在！」",
+      "translation": "A villager returning from the city told his wife, \"I sneezed countless times in the city.\" His wife said, \"That's because I was thinking of you at home.\" On another day, while carrying manure across a precarious bridge, he sneezed several times again and nearly lost his footing. He cursed, saying, \"You shameless woman! Even if you were thinking of me, you should consider where you are!\"",
+      "number": 74
+    },
+    {
+      "title_zh": "大耳",
+      "title_en": "Da Er",
+      "text": "一妓苦陰毛太多，為嫖客所厭，呼待詔剃之。呼者慮其不來，詐言剃面。既至，妓謂曰：「喚你剃面，乃剃小面，非大面也。」即解出陰物示之。待詔剃畢，謂妓曰：「小面既剃，小耳亦不可不取，待我拿出消息來。」即解褲出具，投入陰中。忽大詫曰：「不意小小一張面孔，竟有這隻大耳朵。」",
+      "translation": "A courtesan was troubled by having too much pubic hair, which disgusted her clients, so she called a barber to shave it off. The woman, fearing the barber might not come, lied and said she wanted her face shaved. After he arrived, the courtesan told him, \"I called you to shave my face, but it's just a small part of the face—not the whole thing.\" She then undressed and showed him her private parts. After the barber finished shaving, he told the courtesan, \"Since you've had your small face shaved, your small ears should also be taken care of. Let me get my tools.\" He then took out his tool and inserted it into her private area. Suddenly, he exclaimed in surprise, \"I didn't expect such a small face to have such a big ear!\"",
+      "number": 75
+    },
+    {
+      "title_zh": "歪頭",
+      "title_en": "Wai Tou",
+      "text": "有素患痿陽之症，娶得新婦到家。初夜行房，苦於厥物不舉，舞弄既久，終不能入。婦怒曰：「直恁沒用，頭都東倒西歪，還想硬掙甚麼！」夫乃詭辭以應曰：「你不曉得，我此物生來原是個歪頭，少不得弄他進去哩。」",
+      "translation": "A man who had long suffered from impotence married a new wife and brought her home. On their first night together, he was troubled by his inability to achieve an erection; after fumbling for a long time, he still could not enter. The wife angrily said, \"You're really useless! Your head is already swaying left and right; how can you even think about getting hard?\" The husband replied with a fabricated excuse, saying, \"You don't know this—this thing of mine was originally born as a crooked head. I have to twist it in somehow.\"",
+      "number": 76
+    },
+    {
+      "title_zh": "爭坐",
+      "title_en": "Zheng Zu",
+      "text": "眼與眉毛曰：「我有許多用處，你一無所能，反坐在我的上位。」眉曰：「我原沒用，只是沒我在上，看你還像個人哩！」",
+      "translation": "The eyes and eyebrows said, \"I have many uses. You are good for nothing yet sit above me.\" The eyebrows replied, \"It's true I'm useless, but without me on top, look at you—would you even look like a human being!\"",
+      "number": 77
+    },
+    {
+      "title_zh": "直背",
+      "title_en": "Zhi Bei",
+      "text": "一瞎子，一矮子，一駝子，吃酒爭座，各曰：「說得大話的便坐頭一位。」瞎子曰：「我目中無人，該我坐。」矮子曰：「我不比常（長）人，該我坐。」駝子曰：「不要爭，算來你們都是直背（侄輩），自然該讓我坐。」",
+      "translation": "A blind man, a short-statured man, and a hunchback were drinking together and arguing over seating. Each said, \"Whoever tells the biggest lie will sit in the first seat.\" The blind man said, \"I see no one; I should sit there.\" The short-statured man said, \"I am not as tall as an ordinary person; I should be the one to sit there.\" The hunchback said, \"Don't argue. Considering things, you are both straight-backed (younger relatives), so naturally I should sit there.\"",
+      "number": 78
+    },
+    {
+      "title_zh": "駝叔",
+      "title_en": "Chuo Shu",
+      "text": "有駝子赴席，泰然上座。眾客既齊，自覺不安，復趨下謙遜。眾客曰：「駝叔請上座，直背（侄輩）怎敢。」",
+      "translation": "A hunchback went to a banquet and calmly took the seat of honor. When all the guests had arrived, he felt uneasy and moved down from his seat in humility. The other guests said, \"Uncle Chuo, please take the upper seat; how could a straight-backed (nephew) dare to sit there?\"",
+      "number": 79
+    },
+    {
+      "title_zh": "善屁",
+      "title_en": "Shan Pi",
+      "text": "有善屁者，往鐵匠鋪打鐵搭，方講價，連撒十餘屁。匠曰：「汝屁直恁多，若能連撒百個，我當白送一把鐵搭與你。」其人便放百個，匠只得打成送之。臨出門，又撒數十屁，乃謂匠曰：「算不得許多。這幾個小屁，乞我幾隻鈀頭釘罷。」",
+      "translation": "There was a man who was good at passing gas. When he went to an ironworker's shop to buy an iron hook, just as they were discussing the price, he let out more than ten farts in succession. The blacksmith said, \"Your gas is so abundant! If you can pass a hundred farts in a row, I will give you an iron hook for free.\" The man then let out one hundred farts, and the blacksmith had no choice but to forge one and give it to him. As he was leaving, he let out another several dozen farts and said to the blacksmith, \"That doesn't add up to much.\" \"These few little farts—just give me a few brads as payment.\"",
+      "number": 80
+    },
+    {
+      "title_zh": "祖師殿",
+      "title_en": "Zu Shi Dian",
+      "text": "祖師殿中忽聞屁臭，眾人互推不認，乃推祖師曰：「汝為正祖，受十方香火，如何撒屁？」祖師驚起辯曰：「尚有四將，何獨推我？」四將亦辯曰：「尚有龜、蛇。」蛇曰：「我肚小撒不出，定是這個烏龜！」",
+      "translation": "Suddenly, a smell of gas was detected in the hall of the ancestral master. Everyone denied it and pointed fingers at each other before finally turning to the ancestor statue and saying, \"You are the true ancestor, receiving incense offerings from all directions—how could you pass gas?\" The ancestral master statue suddenly jumped up in protest and said, \"There are still four generals present; why single me out?\" The four generals also protested, saying, \"There is still the tortoise and the snake.\" The snake said, \"My belly is too small to pass gas; it must be this turtle!\"",
+      "number": 81
+    },
+    {
+      "title_zh": "祖師殿",
+      "title_en": "Zu Shi Dian",
+      "text": "一說祖師辯曰：「尚有四將。」四將互相推卸。關聖傍立關平曰：「撒屁的定然臉紅。」關聖大怒曰：「你是我的兒子，也來冤屈我！」",
+      "translation": "One version says the ancestral master protested, saying, \"There are still four generals.\" The four generals shifted blame among themselves. Guan Ping, standing beside Guan Sheng, said, \"Whoever passed gas must have a red face.\" Guan Sheng became very angry and said, \"You are my son, yet you dare to wrong me!\"",
+      "number": 82
+    },
+    {
+      "title_zh": "認屁",
+      "title_en": "Ren Pi",
+      "text": "一女善屁，新婚隨嫁一嫗一婢，囑以認屁遮羞。臨拜堂，忽撒一屁，顧嫗曰：「這個老媽無體面！」少頃，又撒一屁，顧婢曰：「這個丫頭恁可惡！」隨後又二屁，左右顧而嫗婢俱不在，無可說得，乃曰：「這張屁股沒正經。」",
+      "translation": "A woman who was good at passing gas had a new bride and brought along an elderly nursemaid and a servant girl, instructing them to cover for her when she passed gas. Just as they were about to perform the wedding ceremony, she suddenly let out a fart and turned to the nursemaid, saying, \"This old woman is so unseemly!\" A little while later, she let out another fart and turned to the servant girl, saying, \"This wench is really annoying!\" After that, she let out two more farts. When she looked around and found neither the nursemaid nor the servant girl present, there was no one to blame, so she said, \"This behind of mine is just incorrigible.\"",
+      "number": 83
+    },
+    {
+      "title_zh": "屁婢",
+      "title_en": "Pi Bi",
+      "text": "一婢偶於主人前撒了一屁，主怒，欲撻之。見其臀甚白，不覺動火，非但免責，且與之狎。明日，主在書房，忽聞叩門聲，啟戶視之，乃昨婢也。問來為何，答曰：「我適才又撒一屁矣。」",
+      "translation": "A servant girl happened to pass gas in front of her master, who became angry and wanted to beat her. Seeing that her buttocks were very white, he could not help but become aroused. Not only did he exempt her from punishment, but he also had relations with her. The next day, the master was in his study when suddenly he heard a knock on the door. He opened it and saw that it was the servant girl from yesterday. He asked why she had come, and she replied, \"I just passed gas again.\"",
+      "number": 84
+    },
+    {
+      "title_zh": "鏨頭",
+      "title_en": "Zhaotou",
+      "text": "數人同舟，有撒屁者，眾疑一童子，共鏨其頭。童子哭曰：「阿彌陀佛。別人打我也罷了，虧那撒屁的烏龜，擔得這隻手起，也來打我！」",
+      "translation": "Several people were traveling together in a boat. When someone passed gas, the others suspected it was a boy and all attacked his head with chisels. The boy cried out, \"Amituofo.\" \"It's bad enough that others hit me,\" he said, \"but what about that gas-passing turtle? How could it raise its hand and come to hit me too!\"",
+      "number": 85
+    },
+    {
+      "title_zh": "路上屁",
+      "title_en": "Roadside Gas",
+      "text": "昔有三人行令，要上山見一古人，下山又見一古人，半路見一物件，後句要總結前後二句。一人曰：「上山遇見狄青，下山遇見李白，路上拾得一瓶酒，不知是清酒是白酒。」一人曰：「上山遇見樊噲，下山遇見趙盾，路上拾得一把劍，不知是快劍是鈍劍。」一人云：「上山遇見林放，下山遇見賈島，路上拾得一個屁，不知是放的屁、島的屁。」",
+      "translation": "Long ago, three people played a game of commands. The rule was to go up the mountain and see an ancient person, then down the mountain and see another ancient person, and along the way encounter an object; the last line had to summarize the first two lines. One person said, \"Going up the mountain I met Di Qing; going down the mountain I met Li Bai. Along the way I picked up a bottle of wine, but I don't know if it is clear or white liquor.\" Another person said, \"Going up the mountain I met Fan Kuai; going down the mountain I met Zhao Dun. Along the way I found a sword, but I don't know whether it is sharp or dull.\" One person said, \"Going up the mountain I met Lin Fang; going down the mountain I saw Jia Dao. Along the way I picked up one fart, but I don't know whose it is—Fang's or Dao's.\"",
+      "number": 86
+    },
+    {
+      "title_zh": "賊屁",
+      "title_en": "Thief Fart",
+      "text": "穿窬躲在人家床底，忽撒一屁甚響。夫罵妻，妻云：「你撒了屁，倒來冤屈我！」爭鬧不已。賊無奈，只得出來招認曰：「這屁其實是賊放的。」",
+      "translation": "A thief hiding under someone else's bed suddenly let out a very loud fart. The husband scolded his wife, and the wife said, \"You passed gas yourself, yet you are blaming me!\" They continued to quarrel. The thief had no choice but to come out and admit, \"Actually, that fart was passed by the thief.\"",
+      "number": 87
+    },
+    {
+      "title_zh": "吃屁",
+      "title_en": "Chi Pi",
+      "text": "酒席間有人撒屁者，眾人互相推卸。內一人曰：「列位請各飲一杯，待小弟說了罷。」眾飲訖，其人曰：「此屁實係小弟撒的。」眾人不服，曰：「為何你撒了屁，倒要我們眾人吃！」",
+      "translation": "At a banquet, when someone passed gas, everyone shifted blame onto each other. One person among them said, \"Everyone please take a drink, and I will explain.\" After everyone had drunk, the man said, \"This fart was indeed passed by me.\" The others were not convinced and said, \"Why is it that you passed the gas, yet we all have to drink for it!\"",
+      "number": 88
+    },
+    {
+      "title_zh": "桌面響",
+      "title_en": "Tabletop Sound",
+      "text": "一人方陪客，偶撒一屁。自覺愧甚，欲掩飾之，乃假將指頭擦桌面作響聲。客曰：「還是第一聲像得緊。」",
+      "translation": "A man was entertaining guests when he happened to pass a fart. Feeling very ashamed, he wanted to cover it up and pretended to rub his finger on the tabletop to make a sound. The guest said, \"Still, the first sound sounded more convincing.\"",
+      "number": 89
+    },
+    {
+      "title_zh": "田雞叫",
+      "title_en": "Tianji Jiao",
+      "text": "甲乙兩親家姆會親，乙偶撒一屁，甲問曰：「親家姆，甚響？」乙恐不雅，答曰：「田雞叫。」甲曰：「為甚能臭？」乙曰：「死的呀。」又問：「適才會叫，如何是死的？」乙曰：「叫了就死的。」",
+      "translation": "Jia and Yi, two mothers-in-law who were relatives, met for a visit. Yi happened to pass gas, and Jia asked, \"Mother-in-law, wasn't that very loud?\" Yi, fearing it was impolite, replied, \"It's the sound of a frog croaking.\" Jia said, \"Why does it smell so bad?\" Yi replied, \"Because it's a dead one.\" Jia asked again, \"If it just called out, how can it be dead?\" Yi replied, \"It died after croaking.\"",
+      "number": 90
+    },
+    {
+      "title_zh": "不嘿",
+      "title_en": "Bu Hei",
+      "text": "各行酒令，要嘿飲。席中有撒屁者，令官曰：「不嘿，罰一杯。」其人曰：「是屁響。」令官曰：「又不嘿，再罰一杯。」舉坐為之大笑。令官曰：「通座皆不嘿，各罰一杯。」",
+      "translation": "They played a drinking game where the rule was to drink in silence. At the banquet, when someone passed gas during their turn, the official in charge said, \"You were not silent—penalty: one cup.\" The person replied, \"It was just a fart sound.\" The official said, \"You spoke again without being silent—another penalty cup.\" Everyone at the table burst into laughter. The official said, \"Since no one here was silent, everyone shall drink a penalty cup.\"",
+      "number": 91
+    },
+    {
+      "title_zh": "怕冷",
+      "title_en": "Pa Leng",
+      "text": "或問：「世間何物不怕冷？」曰：「鼻涕，天寒即出。」又問：「何物最怕冷？」曰：「屁，才離窟臀，又向鼻孔裡鑽進。」",
+      "translation": "Someone asked, \"What in the world is not afraid of cold?\" The reply was, \"Nasal mucus—it comes out when it's cold.\" Another asked, \"What is the most afraid of cold?\" The reply was, \"A fart—it has just left the anus and immediately tries to crawl back into the nostrils.\"",
+      "number": 92
+    },
+    {
+      "title_zh": "大乳",
+      "title_en": "Da Ru",
+      "text": "一婦人兩乳極大，每用抹胸束之。一日，忘緊抹胸，偶出見人。人怪而問曰：「令郎是幾時生的？」婦曰：「還不曾產育。」人問曰：「既不是令郎，你胸前袋的是甚麼？」",
+      "translation": "A woman had extremely large breasts, which she always used a chest wrap to bind. One day, she forgot to tighten the chest wrap and accidentally went out in front of people. People were surprised and asked her, \"When was your son born?\" The woman replied, \"I have not yet given birth.\" Someone asked, \"If they are not your son, then what is in the bags on your chest?\"",
+      "number": 93
+    },
+    {
+      "title_zh": "抓背",
+      "title_en": "Zhua Bei",
+      "text": "老翁續娶一嫗，其子夜往竊聽，但聞連呼「快活」，頻叫「爽利」。子大喜曰：「吾父高年，尚有如此精力，此壽徵也。」再細察之，乃是命嫗抓背。",
+      "translation": "An old man remarried an elderly woman. His son went to secretly listen at night and only heard her repeatedly calling out \"happy\" and frequently shouting \"refreshing.\" The son was greatly pleased and said, \"My father is old yet still has such energy—this must be a sign of longevity.\" Upon closer inspection, he realized that the old man was simply having the elderly woman scratch his back.",
+      "number": 94
+    },
+    {
+      "title_zh": "善生虱",
+      "title_en": "Shan Sheng Shi",
+      "text": "有善生虱者，自言一年止生十二個虱。詰其故，曰：「我身上的虱，真真一月（捏）一個。」",
+      "translation": "There was a man who claimed to be good at raising lice, saying that he produced only twelve lice per year. When asked why, he said, \"The lice on my body are truly one (pinched) per month.\"",
+      "number": 95
+    },
+    {
+      "title_zh": "贊陽物",
+      "title_en": "Zan Yangwu",
+      "text": "一人客於他鄉，見土著者問曰：「貴地之人好大陽物？」土著者甚喜，答曰：「果然，但不知尊客如何知道？」其人曰：「我在貴處嫖了幾晚，覺得此處的陰物比別處更寬，所以知道。」",
+      "translation": "A man was a guest in a foreign land when he saw a local and asked, \"Are the people of your place known for having large penises?\" The local was very pleased and replied, \"Indeed they are. But I wonder how you, honored guest, came to know this?\" The man said, \"I spent several nights visiting prostitutes here and noticed that the female organs in this place are wider than elsewhere, so I came to know.\"",
+      "number": 96
+    },
+    {
+      "title_zh": "家當",
+      "title_en": "Jiadang",
+      "text": "一婦有姿色，而窮人欲謀娶之，恐其不許，乃賄托媒人極言其家事富饒。婦許之，及過門，見四壁蕭然，家無長物，知墮計中。輒大哭不止，怨恨媒人。窮人以陽物托出，豐偉異常，放在桌上連敲數下，仍收起曰：「不是我誇口說，別人本錢放在家裏，我的家當帶在身邊。如娘子不願，任從請回。」婦忙掩面試淚曰：「誰說你甚麼來。」",
+      "translation": "A woman was beautiful, and a poor man wanted to marry her. Fearing she would refuse, he bribed the matchmaker to greatly exaggerate how wealthy his family was. The woman agreed, and after marrying into the family, she saw that the walls were bare and there was nothing of value in the house. She realized she had fallen for the trick. She began to weep uncontrollably and blamed the matchmaker. The poor man took out his penis, which was unusually large and impressive. He placed it on the table, tapped it several times, then put it away and said, \"I'm not boasting, but while others keep their wealth at home, my assets are right here with me.\" \"If you, madam, do not wish to stay, feel free to go back whenever you like.\" The woman hurriedly covered her face and pretended to weep, saying, \"Who said anything about you?\"",
+      "number": 97
+    },
+    {
+      "title_zh": "肚腸",
+      "title_en": "Duchang",
+      "text": "有未嫁者，父方小解，褻物為女所見。問母曰：「那是甚麼東西？」母不便顯言，答曰：「掛出的肚腸。」女既嫁歸寧，母愁婿家貧，勸之久住，謂其夫家柴米不足也。女曰：「人家窮便窮，喜得肚腸還好，就忍些飢餓也情願。」",
+      "translation": "A girl who had not yet married saw her father urinating and caught sight of his private parts. She asked her mother, \"What is that thing?\" The mother did not wish to speak openly and replied, \"It's hanging-out intestines.\" After the girl married and returned home to visit her parents, her mother was worried about her husband's poverty. She advised her daughter to stay for a long time, saying that there was not enough firewood or rice at her in-laws' house. The daughter said, \"Their family may be poor, but at least their intestines are still in good condition. I am willing to endure some hunger.\"",
+      "number": 98
+    },
+    {
+      "title_zh": "巨卵",
+      "title_en": "Ju Luan",
+      "text": "一人死後，冥王罰變為驢。其人哀懇，得許復原形，放其還魂。因行急，猶有驢卵未變。既醒，欲再往換，仍復原體。其妻力止之曰：「鬍閻王不是好講話的，只得做我不著，挨些苦罷。」",
+      "translation": "After a man died, the King of Hell punished him by transforming him into a donkey. The man pleaded earnestly and was allowed to return to his original form and have his soul restored. Because he moved in a hurry, one of his donkey testicles remained unchanged. After waking up, he wanted to go back and change it again to return fully to his original body. His wife strongly stopped him, saying, \"The Jade Emperor is not someone you can easily reason with. We'll just have to put up with it and endure some hardship.\"",
+      "number": 99
+    },
+    {
+      "title_zh": "小卵",
+      "title_en": "Xiao Luan",
+      "text": "一人命妻做鞋而小，怒曰：「你當小不小，偏小在鞋子上面！」妻亦怒曰：「你當大不大，偏大在這隻腳上！」",
+      "translation": "A man ordered his wife to make shoes that were too small and angrily said, \"You think they are not small? Well, they turned out especially small on the shoes!\" The wife was also angry and replied, \"Do you think your feet are not big? They just happen to be especially large on this foot!\"",
+      "number": 100
+    },
+    {
+      "title_zh": "貴相",
+      "title_en": "Gui Xiang",
+      "text": "有家人婦，得寵愛于主人者，同伴私問其狀，答曰：「貴相真是不同。」問何故，答曰：「卵袋都是綿團絲軟的。」",
+      "translation": "A servant woman who was favored by the master of the house, when asked privately about her situation by a companion, replied, \"Her noble appearance is truly different.\" When asked why, she answered, \"Her scrotum is all soft and silky like cotton balls.\"",
+      "number": 101
+    },
+    {
+      "title_zh": "當卵",
+      "title_en": "Dang Luan",
+      "text": "一婦攬權甚，夫所求不如意，乃以帶繫其陽於後而誑妻曰：「適因其用甚急，與你索不肯，已將此物當銀一兩與之矣。」妻摸之，果不見，乃急取銀二兩付夫，令速回贖，囑曰：「若典中有當絕長大的，寧可加貼些銀子，換上一根回來。你那怪小東西，棄絕了也罷。」",
+      "translation": "A woman held great power in the household, and her husband's requests were never fulfilled. So he tied his penis to the back and deceived his wife by saying, \"Just now, because it was urgently needed, I asked you for it but you refused, so I have already pawned this thing for one tael of silver.\" The wife touched it and indeed found it missing, so she quickly took two taels of silver and gave it to her husband, ordering him to return quickly to redeem it. She instructed, \"If there is anything in the pawnshop that is longer or better, you may add some more silver and bring back a better one.\" \"You might as well get rid of your strange little thing.\"",
+      "number": 102
+    },
+    {
+      "title_zh": "倭刺",
+      "title_en": "Wei La",
+      "text": "甲乙兩婦對坐，各問夫具之大小及伎倆如何，因不便明言，乃各比一物。甲曰：「我家的是鐃碗盛小菜。」乙問其故，甲曰：「小便不小，只是數目不多，極好不過四碟。」乙曰：「這等還好，不像我家的物事，竟是一把倭刺。」甲問其故，乙曰：「又小又快。」",
+      "translation": "Two women, Jia and Yi, were sitting opposite each other, asking about the size of their husbands' genitals and how skilled they were. Since it was inconvenient to speak openly, they compared them to objects instead. Jia said, \"Mine is like a small dish placed in a bowl.\" Yi asked why, and Jia replied, \"The amount of urine is not small, but the number of times is not many; at best, it's only four bowls.\" Yi said, \"That's still better. It doesn't compare to mine at all; it's actually like a Japanese dagger.\" Jia asked why, and Yi replied, \"It is both small and quick.\"",
+      "number": 103
+    },
+    {
+      "title_zh": "快刀",
+      "title_en": "Kuai Dao",
+      "text": "新郎初次行房，婦欣然就之，絕不推拒。至事畢之後，反高聲叫曰：「有強盜，有強盜！」新郎曰：「我乃丈夫，如何說是強盜。」新婦曰：「既不是強盜，為何帶把刀來？」夫曰：「刀在那裡？」婦指其物曰：「這不是刀？」新郎曰：「此乃陽物，何認為刀？」新婦曰：「若不是刀，為何這等快極！」",
+      "translation": "The newlywed groom had his first time in the marital bed, and the bride happily accepted him without any refusal. After it was over, she instead shouted loudly, \"There's a robber! There's a robber!\" The newlywed groom said, \"I am your husband; how can you say I'm a robber?\" The bride replied, \"If you are not a robber, then why did you bring a knife?\" The husband asked, \"Where is the knife?\" The wife pointed at his genitals and said, \"Isn't this a knife?\" The newlywed groom replied, \"This is the male organ; how could you mistake it for a knife?\" The bride said, \"If this isn't a knife, then why is it so fast!\"",
+      "number": 104
+    },
+    {
+      "title_zh": "癟東西",
+      "title_en": "Bie Dongxi",
+      "text": "一老人娶幼婦，雲雨間對婦云：「願你養一個兒子。」婦曰：「兒子倒養不出，只好養個團魚。」夫駭問其故，答曰：「像你這樣癟東西，如何養的不是團魚？」",
+      "translation": "An old man married a young wife, and during their intimate moments he said to her, \"I hope you bear me a son.\" łoż The wife replied, \"A son is hard to have, but I can only give birth to a soft-shelled turtle.\" The husband was startled and asked why. She replied, \"With someone as flaccid as you, how could I possibly give birth to anything but a soft-shelled turtle?\"",
+      "number": 105
+    },
+    {
+      "title_zh": "硬中證",
+      "title_en": "Ying Zhongzheng",
+      "text": "有病偏墜者，左腎以家私不均事告於肚皮。左腎自覺強良佔脬太多，用厚禮結納於陽具，訴狀中求其做一硬中證。及臨審，左腎抗辨力甚，而陽具縮首，不出一語。肚皮責陽物曰：「你向日直恁跳梁，今日何頓軟弱，還不從直講來？」答曰：「見本主子脬硬掙，我只得縮了。」",
+      "translation": "A man with a condition where one testicle hangs lower complained to his belly about the matter, saying that it was due to an unequal distribution of family property. The left testicle, feeling that the right one had taken up too much space in the scrotum, offered generous gifts to the penis and requested it to serve as a firm witness in the case. When the trial came, the left testicle argued fiercely, but the penis shrank back and did not utter a single word. The belly scolded the penis, saying, \"You were so lively and active before. Why are you suddenly so weak today? Don't you dare to tell the truth?\" The penis replied, \"Seeing that my master's scrotum was hard and stiff, I had no choice but to shrink.\"",
+      "number": 106
+    }
+  ]
+}

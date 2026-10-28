@@ -1,0 +1,15 @@
+:root {
+	color-scheme: light;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Noto Serif TC", serif;
+	background: #fafaf9;
+	color: #1f2937;
+}
